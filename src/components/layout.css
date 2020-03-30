@@ -26,8 +26,9 @@ a {
   margin: 0;
   max-width: 500px;
   margin: 0 auto;
-  padding: 150px 50px;
+  padding: 200px 50px;
   text-align: center;
+  transition: 1s;
 }
 
 .Hero h1 {
@@ -35,6 +36,11 @@ a {
   font-size: 60px;
   line-height: 1.2;
   color: white;
+  opacity: 0;
+  animation: HeroAnimation;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 
 .Hero p {
@@ -53,6 +59,11 @@ a {
   padding: 9px 20px;
   border: 1px solid rgba(255,255,255, 0.8);
   border-radius: 20px;
+  cursor: pointer;
+}
+
+.Hero a:hover {
+
 }
 
 @media (max-width: 640px) {
@@ -66,5 +77,16 @@ a {
 
   .Hero p {
     font-size: 24px;
+  }
+}
+
+@keyframes HeroAnimation {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
   }
 }
