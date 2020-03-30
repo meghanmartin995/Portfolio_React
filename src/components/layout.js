@@ -28,10 +28,9 @@ const Layout = ({ children }) => {
       <Header />
       <div>
         <main>{children}</main>
-        <footer>
+        <footer class="Footer">
           © {new Date().getFullYear()}, Built by Meghan Martin
           {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
         </footer>
       </div>
     </>
