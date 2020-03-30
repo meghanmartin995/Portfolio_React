@@ -21,11 +21,16 @@
 
 @media (max-width: 640px) {
   .Header {
-    padding: 15px 0;
+    padding: 25px 0;
   }
 
   .HeaderGroup {
     grid-template-columns: repeat (3, auto);
+    font-size: 20px;
+  }
+
+  .HeaderGroup img {
+    width: 28px;
   }
 
   .Header a:nth-child(4) {
