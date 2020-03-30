@@ -1,0 +1,78 @@
+import React from 'react'
+import styled from 'styled-components'
+import Wave from '../components/Wave';
+
+const SectionGroup = styled.div `
+  background: url(${props => props.image});
+  height: 820px;
+  background-size: cover;
+  display: grid;
+  grid-template-rows: 400px auto;
+  grid-gap: 20px;
+  position: relative;
+
+    @media (max-width: 640px) {
+        height: 820px;
+    }
+`
+
+const SectionLogo = styled.img`
+  width: 200px;
+  margin: 0 auto;
+  align-self: end;
+`
+
+const SectionTitleGroup = styled.div`
+    max-width: 800px;
+    margin: 0 80px;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: 300px auto;
+    grid-template-rows: auto 100%;
+
+    @media (max-width: 720px) {
+        grid-template-columns: 1fr;
+    }
+`
+
+const SectionTitle = styled.h3`
+    color: white;
+    font-size: 62px;
+    margin: 0;
+    line-height: 1.15;
+
+    @media (max-width: 640px) {
+        font-size: 40px;
+    }
+`
+
+const SectionText = styled.p`
+   color: white;
+`
+
+const WaveBottom = styled.div`
+   bottom: -6px;
+   width: 100%;
+   position: absolute;
+`
+
+const WaveTop = styled.div`
+   top: -6px;
+   width: 100%;
+   position: absolute;
+   transform: rotate(180deg);
+`
+
+const Section = props => (
+  <SectionGroup image={props.image}>
+    <WaveTop><Wave /></WaveTop>
+    <WaveBottom><Wave /></WaveBottom>
+    <SectionLogo src={props.logo}/>
+    <SectionTitleGroup>
+      <SectionTitle>{props.title}</SectionTitle>
+      <SectionText>{props.text}</SectionText>
+    </SectionTitleGroup>
+  </SectionGroup>
+)
+
+export default Section
