@@ -16,7 +16,7 @@
   box-shadow: 0 30px 60px rgba(0,0,0 0.5);
 }
 
-.Card: hover img {
+.Card:hover img {
   transform: translateY(-20px);
 }
 

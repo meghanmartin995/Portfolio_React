@@ -7,8 +7,9 @@ const SectionGroup = styled.div `
   height: 820px;
   background-size: cover;
   display: grid;
-  grid-template-rows: 400px auto;
-  grid-gap: 20px;
+  grid-template-rows: 380px auto;
+  grid-gap: 40px;
+  justify-items: center;
   position: relative;
 
     @media (max-width: 640px) {
