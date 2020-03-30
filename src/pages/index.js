@@ -4,6 +4,7 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
+import Card from '../components/Card';
 
 const IndexPage = () => (
   <Layout>
@@ -27,9 +28,30 @@ const IndexPage = () => (
           </path>
           </svg>
 
-
       </div>
-    </div>
+      </div>
+      <div className="Cards">
+        <h2>Projects I've been working on</h2>
+          <div className="CardGroup">
+            <Card
+              title="Fancier"
+              text="Description"
+              image={require('../images/bg.jpg')} />
+            <Card
+              title="Altura"
+              text="Description"
+              image={require('../images/bg.jpg')} />
+
+            <Card
+              title="Malpensatina"
+              text="Description"
+              image={require('../images/bg.jpg')} />
+            <Card
+              title="Image Search"
+              text="Description"
+              image={require('../images/bg.jpg')} />
+          </div>
+      </div>
 
 
   </Layout>
