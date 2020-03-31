@@ -20,13 +20,15 @@ const IndexPage = () => (
       </div>
       <Wave />
     </div>
-    <Section
-        image={require('../images/bg.jpg')}
-        logo={require('../images/av.png')}
-        title="About me"
-        text="I'm a frontend developer and designer currently based in Madrid, Spain. I'm passionate about the intersection of design and development. My mission as a developer is to create and contribute to projects that create a better human experience. I graduated from UC Berkeley in 2017 and since have studied design at the Instituto Europeo di Design and learned to code using tools such as React.js, Ruby on Rails, Javascript and HTML/CSS."
-      />
-      <div className="Cards" idName="Projects">
+    <div id="About">
+      <Section
+          image={require('../images/bg.jpg')}
+          logo={require('../images/av.png')}
+          title="About me"
+          text="I'm a frontend developer and designer currently based in Madrid, Spain. I'm passionate about the intersection of design and development. My mission as a developer is to create and contribute to projects that create a better human experience. I graduated from UC Berkeley in 2017 and since have studied design at the Instituto Europeo di Design and learned to code using tools such as React.js, Ruby on Rails, Javascript and HTML/CSS."
+        />
+      </div>
+      <div className="Cards" id="Projects">
         <h2>Examples of my work</h2>
           <div className="CardGroup">
             <Card

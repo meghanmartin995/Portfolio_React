@@ -12,8 +12,12 @@ const SectionGroup = styled.div `
   justify-items: center;
   position: relative;
 
-    @media (max-width: 640px) {
-        height: 600px;
+    @media (max-width: 900px) {
+        height: 800px;
+    }
+
+    @media (max-width: 700px) {
+        height: 720px;
     }
 `
 

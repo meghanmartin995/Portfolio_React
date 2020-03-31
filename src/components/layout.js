@@ -28,10 +28,12 @@ const Layout = ({ children }) => {
       <Header />
       <div>
         <main>{children}</main>
-        <footer class="Footer">
+        <div id="Footer">
+        <footer>
           © {new Date().getFullYear()}, Built by Meghan Martin
           {` `}
         </footer>
+        </div>
       </div>
     </>
   )

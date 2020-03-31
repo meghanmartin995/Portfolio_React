@@ -2,6 +2,7 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 import './Header.css'
+import { navigate } from '@reach/router';
 
 
 
@@ -36,14 +37,16 @@ class Header extends React.Component {
         <div className={this.state.hasScrolled ? 'Header HeaderScrolled' : 'Header'}>
           <div className="HeaderGroup">
           <Link to="/"><img width="30" src={require('../images/logo.svg')} /></Link>
-          <Link to="#about">About Me</Link>
-          <Link to="#projects">Projects</Link>
-          <Link to="#footer">Contact</Link>
+          <a onClick={() => navigate("#About")}>About Me</a>
+          <a onClick={() => navigate("#Projects")} >Projects</a>
+          <a onClick={() => navigate("#Footer")}>Contact</a>
           </div>
         </div>
     )
   }
 }
+
+
 
   Header.propTypes = {
     siteTitle: PropTypes.string,
