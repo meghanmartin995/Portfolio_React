@@ -139,6 +139,10 @@ a {
     grid-template-columns: repeat(1, 1fr);
     margin: 0 auto;
   }
+  .Cards h2 {
+    margin-bottom: 30px;
+    font-size: 35px;
+  }
 }
 
 footer {
