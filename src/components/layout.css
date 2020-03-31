@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Lateef&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,600&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css');
 
 
 body {
@@ -18,7 +19,7 @@ a {
 
 .Hero {
   background-color: #4100EE;
-  height: 715px;
+  height: 670px;
   background-size: cover;
   background-position: center;
   position: relative;
@@ -28,7 +29,7 @@ a {
   margin: 0;
   max-width: 500px;
   margin: 0 auto;
-  padding: 200px 50px;
+  padding: 220px 50px;
   text-align: center;
   transition: 1s;
 }
@@ -110,8 +111,8 @@ a {
 }
 
 .Cards h2 {
-  margin: 50px 20px;
-  font-size: 44px;
+  margin: 40px 20px 10px 20px;
+  font-size: 38px;
   text-align: center;
   font-weight: 700;
   background: linear-gradient(104deg, #050A27 0%, #4A548C 100%);

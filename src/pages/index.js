@@ -16,12 +16,18 @@ const IndexPage = () => (
       <div className="HeroGroup">
         <h1>Hi, I'm Meghan</h1>
         <p>Developer + Designer | React.js, Ruby on Rails, Javascript, HTML/CSS</p>
-        <Link to="/page-2/">Projects</Link>
+
       </div>
       <Wave />
     </div>
-      <div className="Cards">
-        <h2>Projects I've been working on</h2>
+    <Section
+        image={require('../images/bg.jpg')}
+        logo={require('../images/av.png')}
+        title="About me"
+        text="I'm a frontend developer and designer currently based in Madrid, Spain. I'm passionate about the intersection of design and development. My mission as a developer is to create and contribute to projects that create a better human experience. I graduated from UC Berkeley in 2017 and since have studied design at the Instituto Europeo di Design and learned to code using tools such as React.js, Ruby on Rails, Javascript and HTML/CSS."
+      />
+      <div className="Cards" idName="Projects">
+        <h2>Examples of my work</h2>
           <div className="CardGroup">
             <Card
               title="Fancier"
@@ -41,21 +47,40 @@ const IndexPage = () => (
               text="Description"
               image={require('../images/bg.jpg')} />
             <Card
-              title="Image Search"
+              title="Machine Learning"
               text="Description"
               image={require('../images/bg.jpg')} />
             <Card
-              title="Image Search"
+              title="Contentful"
+              text="Description"
+              image={require('../images/bg.jpg')} />
+            <Card
+              title="Stock Organizer"
+              text="Description"
+              image={require('../images/bg.jpg')} />
+            <Card
+              title="Thrive"
+              text="Description"
+              image={require('../images/bg.jpg')} />
+            <Card
+              title="Lucid"
+              text="Description"
+              image={require('../images/bg.jpg')} />
+            <Card
+              title="Replastic"
+              text="Description"
+              image={require('../images/bg.jpg')} />
+            <Card
+              title="Moodfood"
+              text="Description"
+              image={require('../images/bg.jpg')} />
+            <Card
+              title="Lucid"
               text="Description"
               image={require('../images/bg.jpg')} />
           </div>
       </div>
-      <Section
-        image={require('../images/bg.jpg')}
-        logo={require('../images/av.png')}
-        title="About me"
-        text="I'm passionate about the intersection of design and development. My mission as a developer is to create and contribute to projects that create a better human experience."
-      />
+
 
   </Layout>
 )

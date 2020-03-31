@@ -3,22 +3,22 @@ import styled from 'styled-components'
 import Wave from '../components/Wave';
 
 const SectionGroup = styled.div `
-  background: url(${props => props.image});
-  height: 820px;
+  background: white;
+  height: 600px;
   background-size: cover;
   display: grid;
-  grid-template-rows: 380px auto;
+  grid-template-rows: 220px auto;
   grid-gap: 40px;
   justify-items: center;
   position: relative;
 
     @media (max-width: 640px) {
-        height: 820px;
+        height: 600px;
     }
 `
 
 const SectionLogo = styled.img`
-  width: 200px;
+  width: 210px;
   margin: 0 auto;
   align-self: end;
 `
@@ -37,7 +37,7 @@ const SectionTitleGroup = styled.div`
 `
 
 const SectionTitle = styled.h3`
-    color: white;
+    color: black;
     font-size: 62px;
     margin: 0;
     line-height: 1.15;
@@ -48,20 +48,20 @@ const SectionTitle = styled.h3`
 `
 
 const SectionText = styled.p`
-   color: white;
+   color: black;
 `
 
 const WaveBottom = styled.div`
    bottom: -6px;
    width: 100%;
    position: absolute;
+   display: none;
 `
 
 const WaveTop = styled.div`
-   top: -6px;
+   top: -180px;
    width: 100%;
    position: absolute;
-   transform: rotate(180deg);
 `
 
 const Section = props => (

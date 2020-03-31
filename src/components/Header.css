@@ -7,9 +7,9 @@
 }
 
 .HeaderScrolled {
-    background: rgba(65, 0, 238, 0.9);
-    padding: 15px 0;
-    backdrop-filter: blur(20px);
+  background: rgba(65, 0, 238, 0.9);
+  padding: 15px 0;
+  backdrop-filter: blur(20px);
 }
 
 .HeaderGroup {
