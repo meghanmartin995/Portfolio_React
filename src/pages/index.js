@@ -16,7 +16,6 @@ const IndexPage = () => (
       <div className="HeroGroup">
         <h1>Hi, I'm Meghan</h1>
         <p>Developer + Designer | React.js, Ruby on Rails, Javascript, HTML/CSS</p>
-
       </div>
       <Wave />
     </div>

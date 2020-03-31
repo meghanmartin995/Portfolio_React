@@ -29,6 +29,10 @@ const Layout = ({ children }) => {
       <div>
         <main>{children}</main>
         <div id="Footer">
+        <div className="Links">
+          <a href="https://github.com/meghanmartin995"> <i class="fab fa-github"></i></a>
+          <a href="https://www.linkedin.com/in/meghanmartinberkeley/"><i class="fab fa-linkedin"></i></a>
+        </div>
         <footer>
           © {new Date().getFullYear()}, Built by Meghan Martin
           {` `}
