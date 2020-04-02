@@ -20,7 +20,7 @@ a {
 .Hero {
   background: linear-gradient(180deg, rgba(63, 0, 239, 0.76) 0%, rgba(131, 158, 255, 0) 100%, rgba(222, 212, 252, 0) 100%);
   font-family: Montserrat;
-  height: 700px;
+  height: 780px;
   background-size: cover;
   background-position: center;
   position: relative;
@@ -28,17 +28,30 @@ a {
 
 .HeroGroup {
   margin: 0;
-  max-width: 600px;
+  /*max-width: 600px;*/
   margin: 0 auto;
-  padding: 210px 50px;
+  padding: 230px 50px;
   text-align: center;
   transition: 1s;
+}
+
+.HeroGroup span {
+  color: #FFC6E5;
+}
+
+.TextScroll {
+  font-weight: 300;
+  font-size: 26px;
+  margin-top: 60px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #FFFFFF;
 }
 
 .Hero h1 {
   margin: 0;
   font-family: Poppins;
-  font-size: 65px;
+  font-size: 72px;
   line-height: 1.2;
   color: white;
   opacity: 0;
@@ -51,9 +64,9 @@ a {
 
 .Hero p {
   color: rgba(255, 255, 255, 0.8);
-  font-size: 26px;
+  font-size: 36px;
   line-height: 1.5;
-  margin-top: 20px;
+  margin-top: 12px;
   margin-bottom: 20px;
   opacity: 0;
   animation: HeroAnimation 3s 0.2s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
@@ -77,23 +90,52 @@ a {
   transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 
-@media (max-width: 640px) {
+@media (max-width: 670px) {
   .HeroGroup {
-    padding: 210px 20px;
+    padding: 180px 20px;
   }
 
+  .Hero {
+    height: 620px;
+  }
+
+  .Hero h1 {
+    font-size: 48px;
+  }
+
+  .Hero p {
+    font-size: 25px;
+  }
+
+  .TextScroll {
+    font-size: 20px;
+    margin-top: 45px;
+  }
+
+  .Cards h2 {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 450px) {
   .Hero h1 {
     font-size: 40px;
   }
 
-  .Hero p {
-    font-size: 24px;
+  .HeroGroup {
+    padding: 170px 20px;
   }
 
-  .Cards h2 {
-    font-size: 32px;
+  .Hero p {
+    font-size: 25px;
+  }
+
+  .TextScroll {
+    font-size: 19px;
+    margin-top: 30px;
   }
 }
+
 
 @keyframes HeroAnimation {
   0% {
@@ -142,8 +184,8 @@ a {
     margin: 0 auto;
   }
   .Cards h2 {
-    margin-bottom: 30px;
-    font-size: 35px;
+    margin-bottom: 32px;
+    font-size: 30px;
   }
 }
 

@@ -13,11 +13,11 @@ const SectionGroup = styled.div `
   position: relative;
 
     @media (max-width: 900px) {
-        height: 800px;
+        height: 1000px;
     }
 
     @media (max-width: 700px) {
-        height: 720px;
+        height: 1130px;
     }
 `
 

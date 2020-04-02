@@ -14,8 +14,9 @@ const IndexPage = () => (
 
     <div className="Hero">
       <div className="HeroGroup">
-        <h1>hi, i'm meghan</h1>
-        <p>front-end developer + designer | React.js, Ruby on Rails, Javascript, HTML/CSS</p>
+        <h1>hi, i'm <span>meghan</span></h1>
+        <p>front-end developer + designer </p>
+        <marquee className="TextScroll" behavior="scroll" direction="left">TOOLS: REACT.JS, RUBY ON RAILS, JAVASCRIPT,  HTML/CSS, FIGMA, ADOBE SUITE</marquee>
       </div>
       <Wave />
     </div>
