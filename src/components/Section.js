@@ -19,6 +19,10 @@ const SectionGroup = styled.div `
     @media (max-width: 700px) {
         height: 1130px;
     }
+
+    @media (max-width: 500px) {
+        height: 1360px;
+    }
 `
 
 const SectionLogo = styled.img`
