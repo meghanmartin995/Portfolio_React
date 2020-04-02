@@ -14,75 +14,73 @@ const IndexPage = () => (
 
     <div className="Hero">
       <div className="HeroGroup">
-        <h1>Hi, I'm Meghan</h1>
-        <p>Developer + Designer | React.js, Ruby on Rails, Javascript, HTML/CSS</p>
+        <h1>hi, i'm meghan</h1>
+        <p>front-end developer + designer | React.js, Ruby on Rails, Javascript, HTML/CSS</p>
       </div>
       <Wave />
     </div>
-    <div id="About">
-      <Section
-          image={require('../images/bg.jpg')}
-          logo={require('../images/av.png')}
-          title="About me"
-          text="I'm a frontend developer and designer currently based in Madrid, Spain. I'm passionate about the intersection of design and development. My mission as a developer is to create and contribute to projects that create a better human experience. I graduated from UC Berkeley in 2017 and since have studied design at the Instituto Europeo di Design and learned to code using tools such as React.js, Ruby on Rails, Javascript and HTML/CSS."
-        />
-      </div>
-      <div className="Cards" id="Projects">
+          <div className="Cards" id="Projects">
         <h2>Examples of my work</h2>
           <div className="CardGroup">
             <Card
               title="Fancier"
-              text="Description"
+              text="two-sided marketplace for festival clothing"
               image={require('../images/bg.jpg')} />
             <Card
               title="Altura"
-              text="Description"
+              text="online marketplace for private jets"
               image={require('../images/bg.jpg')} />
 
             <Card
               title="Malpensatina"
-              text="Description"
+              text="informational website for tuscan farmhouse"
               image={require('../images/bg.jpg')} />
             <Card
               title="Image Search"
-              text="Description"
+              text="unsplash api"
               image={require('../images/bg.jpg')} />
             <Card
               title="Machine Learning"
-              text="Description"
+              text="facial recognition scripts"
               image={require('../images/bg.jpg')} />
             <Card
               title="Contentful"
-              text="Description"
+              text="restaurant website connected to contentful cms"
               image={require('../images/bg.jpg')} />
             <Card
               title="Stock Organizer"
-              text="Description"
+              text="web app to organize your stocks on a dashboard"
               image={require('../images/bg.jpg')} />
             <Card
               title="Thrive"
-              text="Description"
+              text="b2b sustainable technology platform"
               image={require('../images/bg.jpg')} />
             <Card
               title="Lucid"
-              text="Description"
+              text="conversation cards about the future of humanity"
               image={require('../images/bg.jpg')} />
             <Card
               title="Replastic"
-              text="Description"
+              text="a manual for indigenous communities to upcycle plastic"
               image={require('../images/bg.jpg')} />
             <Card
               title="Moodfood"
-              text="Description"
+              text="nutrition data visualizations"
               image={require('../images/bg.jpg')} />
             <Card
-              title="Lucid"
+              title="projectX"
               text="Description"
               image={require('../images/bg.jpg')} />
           </div>
+          <div id="About">
+          <Section
+              image={require('../images/bg.jpg')}
+              logo={require('../images/av.png')}
+              title="About me"
+              text="I'm a frontend developer and designer currently based in Madrid, Spain. I'm passionate about the intersection of design and development. My mission as a developer is to create and contribute to projects that create a better human experience. I graduated from UC Berkeley in 2017 and since have studied design at the Instituto Europeo di Design and learned to code using tools such as React.js, Ruby on Rails, Javascript and HTML/CSS."
+            />
+          </div>
       </div>
-
-
   </Layout>
 )
 

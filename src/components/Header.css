@@ -7,7 +7,7 @@
 }
 
 .HeaderScrolled {
-  background: rgba(65, 0, 238, 0.9);
+  background: rgba(127, 104, 242, 0.9);
   padding: 15px 0;
   backdrop-filter: blur(20px);
 }
@@ -24,6 +24,12 @@
 
 .Header a {
   font-weight: 700;
+  transition: all .4s;
+}
+
+.Header a:hover {
+  opacity: .7;
+  cursor: pointer;
 }
 
 @media (max-width: 640px) {

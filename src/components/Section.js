@@ -3,11 +3,11 @@ import styled from 'styled-components'
 import Wave from '../components/Wave';
 
 const SectionGroup = styled.div `
-  background: white;
-  height: 600px;
+  background: rgba(127, 104, 242, 0.9);
+  height: 1000px;
   background-size: cover;
   display: grid;
-  grid-template-rows: 220px auto;
+  grid-template-rows: 420px auto;
   grid-gap: 40px;
   justify-items: center;
   position: relative;
@@ -41,7 +41,7 @@ const SectionTitleGroup = styled.div`
 `
 
 const SectionTitle = styled.h3`
-    color: black;
+    color: white;
     font-size: 62px;
     margin: 0;
     line-height: 1.15;
@@ -52,20 +52,21 @@ const SectionTitle = styled.h3`
 `
 
 const SectionText = styled.p`
-   color: black;
+   color: white;
+   font-weight: 500;
 `
 
 const WaveBottom = styled.div`
    bottom: -6px;
    width: 100%;
    position: absolute;
-   display: none;
 `
 
 const WaveTop = styled.div`
-   top: -180px;
+   top: -6px;
    width: 100%;
    position: absolute;
+   transform: rotate(180deg);
 `
 
 const Section = props => (
