@@ -21,7 +21,7 @@ const SectionGroup = styled.div `
     }
 
     @media (max-width: 500px) {
-        height: 1360px;
+        height: 1320px;
     }
 `
 

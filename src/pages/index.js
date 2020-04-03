@@ -8,19 +8,25 @@ import Card from '../components/Card';
 import Section from '../components/Section';
 import Wave from '../components/Wave';
 
+
 const IndexPage = () => (
-  <Layout>
+  <Layout style={{ cursor: `url(../images/cursor.png'), auto` }}>
     <SEO title="Home" />
 
     <div className="Hero">
       <div className="HeroGroup">
         <h1>hi, i'm <span>meghan</span></h1>
         <p>front-end developer + designer </p>
-        <marquee className="TextScroll" behavior="scroll" direction="left">TOOLS: REACT.JS, RUBY ON RAILS, JAVASCRIPT,  HTML/CSS, FIGMA, ADOBE SUITE</marquee>
+          <p className="Marquee">
+            <span>
+              tools: REACT.JS, RUBY ON RAILS, JAVASCRIPT,  HTML/CSS, figma, adobe suite
+            </span>
+          </p>
       </div>
-      <Wave />
     </div>
-          <div className="Cards" id="Projects">
+      <Wave />
+
+      <div className="Cards" id="Projects">
         <h2>Examples of my work</h2>
           <div className="CardGroup">
             <Card
@@ -73,15 +79,16 @@ const IndexPage = () => (
               text="Description"
               image={require('../images/bg.jpg')} />
           </div>
-          <div id="About">
+        </div>
+        <div id="About">
           <Section
               image={require('../images/bg.jpg')}
               logo={require('../images/av.png')}
               title="About me"
               text="I'm a frontend developer and designer based in Madrid. I graduated from UC Berkeley in 2017 and since have studied design at the Instituto Europeo di Design and learned to code using tools such as React.js, Ruby on Rails, Javascript and HTML/CSS. I'm passionate about the intersection of design and development. My mission is to create and contribute to projects that create a better human experience."
             />
-          </div>
-      </div>
+        </div>
+
   </Layout>
 )
 
