@@ -193,6 +193,11 @@ footer {
   text-align: center;
   font-size: 50px;
   margin: 20px;
+  transition: all .4s;
+}
+
+.Links i:hover {
+  opacity: .7;
 }
 
 @media (max-width: 820px) {
