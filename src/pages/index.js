@@ -24,8 +24,6 @@ const IndexPage = () => (
           </p>
       </div>
     </div>
-      <Wave />
-
       <div className="Cards" id="Projects">
         <h2>Examples of my work</h2>
           <div className="CardGroup">
