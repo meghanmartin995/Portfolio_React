@@ -17,7 +17,7 @@ const Layout = ({ children }) => {
     query SiteTitleQuery {
       site {
         siteMetadata {
-          title
+          author
         }
       }
     }
@@ -30,11 +30,11 @@ const Layout = ({ children }) => {
         <main>{children}</main>
         <div id="Footer">
         <div className="Links">
-          <a href="https://github.com/meghanmartin995"> <i class="fab fa-github"></i></a>
-          <a href="https://www.linkedin.com/in/meghanmartinberkeley/"><i class="fab fa-linkedin"></i></a>
+          <a href="https://github.com/meghanmartin995"> <i className="fab fa-github"></i></a>
+          <a href="https://www.linkedin.com/in/meghanmartinberkeley/"><i className="fab fa-linkedin"></i></a>
         </div>
         <footer>
-          © {new Date().getFullYear()}, Built by Meghan Martin
+          © {new Date().getFullYear()}, Built by {data.site.siteMetadata.author}
           {` `}
         </footer>
         </div>

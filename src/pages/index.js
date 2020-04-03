@@ -7,6 +7,7 @@ import SEO from "../components/seo"
 import Card from '../components/Card';
 import Section from '../components/Section';
 import Wave from '../components/Wave';
+import Projects from '../components/Projects'
 
 
 const IndexPage = () => (
@@ -24,7 +25,7 @@ const IndexPage = () => (
           </p>
       </div>
     </div>
-      <div className="Cards" id="Projects">
+   <div className="Cards" id="Projects">
         <h2>Examples of my work</h2>
           <div className="CardGroup">
             <Card
@@ -78,6 +79,7 @@ const IndexPage = () => (
               image={require('../images/bg.jpg')} />
           </div>
         </div>
+        <Projects />
         <div id="About">
           <Section
               image={require('../images/bg.jpg')}
