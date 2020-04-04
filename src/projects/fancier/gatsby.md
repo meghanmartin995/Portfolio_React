@@ -1,10 +1,12 @@
 ---
 title:  "Fancier"
 text: "test"
-image: ../images/bg.jpg
+image: ./fancier_profile.png
 ---
 
 This is the first project
+
+![Profile](./fancier_profile.png)
 
 ## New Section
 

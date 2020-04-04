@@ -1,7 +1,8 @@
 ---
 title: "second project"
 test: "test"
-image: ../images/bg.jpg
+image: ./malpensatina.png
 ---
 
+![Hero](./malpensatina.png)
 This is the second project.
