@@ -1,12 +1,13 @@
 ---
 title:  "Fancier"
-text: "test"
-image: ./fancier_profile.png
+text: "Two-sides marketplace for festival clothing"
+image: ./3background.png
 ---
 
 This is the first project
 
 ![Profile](./fancier_profile.png)
+![Profile](./screen1.png)
 
 ## New Section
 
