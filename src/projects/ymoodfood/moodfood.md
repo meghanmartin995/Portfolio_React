@@ -6,11 +6,13 @@ image: ./moodfood.png
 
 ![Hero](./moodfood.png)
 
-Role:
+##Moodfood
 
-Tools:
+**Role:**
 
-Credits:
+**Tools:**
 
-Lessons Learned:
+**Credits:**
+
+**Lessons Learned:**
 

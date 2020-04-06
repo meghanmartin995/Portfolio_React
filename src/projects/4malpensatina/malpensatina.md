@@ -6,13 +6,15 @@ image: ./malp.jpg
 
 ![Hero](./malpensatina.png)
 
-Role: I created this website for a client who needed a complete redesign of their vacation rental website. My services included UX design, web development, SEO and graphic design.
+##Malpensatina
 
-Tools: HTML5, CSS, Javascript, Netlify
+**Role:** I created this website for a client who needed a complete redesign of their vacation rental website. My services included UX design, web development, SEO and graphic design.
 
-Credits: I created this website on my own for a client.
+**Tools:** HTML5, CSS, Javascript, Netlify
 
-Lessons Learned:
+**Credits:** I created this website on my own for a client.
+
+**Lessons Learned:**
 
 www.lamalpensatina.com
 

@@ -6,11 +6,13 @@ image: ./lucid33.png
 
 ![Hero](./5lucid.png)
 
-Role:
+##Lucid
 
-Tools:
+**Role:**
 
-Credits:
+**Tools:**
 
-Lessons Learned:
+**Credits:**
+
+**Lessons Learned:**
 

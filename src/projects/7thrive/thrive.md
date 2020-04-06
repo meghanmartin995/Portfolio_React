@@ -6,10 +6,12 @@ image: ./thrivebg.png
 
 ![Hero](./thrive.png)
 
-Role: UX Design, Product Design and Strategy for ArcelorMittal Research & Development
+# Thrive
 
-Tools: UX research: deep interviews, stakeholders & territory maps, benchmarking, live prototyping, UX design: Sketch, Adobe Suite, data visualization
+**Role:** UX Design, Product Design and Strategy for ArcelorMittal Research & Development
 
-Credits: I worked on this project on a team of four with Miguel Rodriguez, Tanisha O'neill, Madeline Honingform in collaboration with ArcelorMittal and NH Hotel Group
+**Tools:** UX research: deep interviews, stakeholders & territory maps, benchmarking, live prototyping, UX design: Sketch, Adobe Suite, data visualization
 
-Lessons Learned: How to conduct unconventional user research because users will rarely ever tell you what they really need
+**Credits:** I worked on this project on a team of four with Miguel Rodriguez, Tanisha O'neill, Madeline Honingform in collaboration with ArcelorMittal and NH Hotel Group
+
+**Lessons Learned:** How to conduct unconventional user research because users will rarely ever tell you what they really need

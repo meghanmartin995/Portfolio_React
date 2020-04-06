@@ -6,11 +6,13 @@ image: ./chart.jpg
 
 ![Hero](./chart.jpg)
 
-Role:
+##Stock Organizer
 
-Tools:
+**Role:**
 
-Credits:
+**Tools:**
 
-Lessons Learned:
+**Credits:**
+
+**Lessons Learned:**
 

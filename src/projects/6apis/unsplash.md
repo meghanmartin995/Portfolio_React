@@ -6,11 +6,13 @@ image: ./unsplash.jpg
 
 ![Hero](./unsplash.jpg)
 
-Role:
+##API Explorations
 
-Tools:
+**Role:**
 
-Credits:
+**Tools:**
 
-Lessons Learned:
+**Credits:**
+
+**Lessons Learned:**
 

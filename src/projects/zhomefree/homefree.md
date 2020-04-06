@@ -8,13 +8,13 @@ This is the first project
 
 ![park](./food.jpg)
 
-## New Section
+## Home Free
 
-Role:
+**Role:**
 
-Tools:
+**Tools:**
 
-Credits:
+**Credits:**
 
-Lessons Learned:
+**Lessons Learned:**
 

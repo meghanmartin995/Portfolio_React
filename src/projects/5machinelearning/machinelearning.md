@@ -6,10 +6,12 @@ image: ./luis1.png
 
 ![Hero](./luis1.png)
 
-Role:
+##Machine Learning
 
-Tools:
+**Role:**
 
-Credits:
+**Tools:**
 
-Lessons Learned:
+**Credits:**
+
+**Lessons Learned:**
