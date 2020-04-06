@@ -31,7 +31,7 @@ const Layout = ({ children }) => {
         <div id="Footer">
         <div className="Links">
           <a href="https://github.com/meghanmartin995"> <i className="fab fa-github"></i></a>
-          <a href="https://www.linkedin.com/in/meghanmartinberkeley/"><i className="fab fa-linkedin"></i></a>
+          <a href="https://www.linkedin.com/in/meghanxmartin/"><i className="fab fa-linkedin"></i></a>
         </div>
         <footer>
           © {new Date().getFullYear()}, Built by {data.site.siteMetadata.author}
