@@ -1,9 +1,9 @@
 .Card {
-  width: 360px;
+  width: 380px;
   height: 225px;
   position: relative;
   overflow: hidden;
-  border-radius: 20px;
+/*  border-radius: 20px;*/
   display: grid;
   grid-template-rows: 1fr 1fr;
   transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
