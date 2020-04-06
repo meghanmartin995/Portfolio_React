@@ -1,8 +1,16 @@
 ---
 title: "Stock Organizer"
 text: "Web app to organize your stocks on a dashboard"
-image: ./stock.jpg
+image: ./chart.jpg
 ---
 
-![Hero](./malpensatina.png)
-This is the second project.
+![Hero](./chart.jpg)
+
+Role:
+
+Tools:
+
+Credits:
+
+Lessons Learned:
+

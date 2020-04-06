@@ -38,6 +38,7 @@ const Projects = () => {
       <div>
       {data.allMarkdownRemark.edges.map((edge) => {
         return (
+          <div className="CardGroup">
             <div className="Card">
               <Link to={`${edge.node.fields.slug}`}>
               <img src={edge.node.frontmatter.image.childImageSharp.fluid.src} />
@@ -45,6 +46,7 @@ const Projects = () => {
               <p> {edge.node.frontmatter.text} </p>
               </Link>
             </div>
+          </div>
         )
       })}
       </div>
