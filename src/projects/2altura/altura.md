@@ -15,3 +15,5 @@ image: ./altura.jpg
 **Credits:** Collaborated on a team of four with Kendrikc Rambal, Laura Aunion and Katy Link
 
 **Lessons Learned:**
+
+[Next Project](/stock)

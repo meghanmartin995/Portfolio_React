@@ -16,3 +16,5 @@ image: ./chart.jpg
 
 **Lessons Learned:**
 
+[Next Project](/malpensatina)
+

@@ -16,3 +16,5 @@ image: ./unsplash.jpg
 
 **Lessons Learned:**
 
+[Next Project](/thrive)
+

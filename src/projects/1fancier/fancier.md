@@ -21,5 +21,7 @@ Github: www.github.com/themsinglink/FANCIER_APP
 
 **Lessons Learned:**
 
+[Next Project](/altura)
+
 
 

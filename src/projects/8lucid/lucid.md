@@ -16,3 +16,5 @@ image: ./lucid33.png
 
 **Lessons Learned:**
 
+[Next Project](/replastic)
+

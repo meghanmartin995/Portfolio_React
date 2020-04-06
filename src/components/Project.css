@@ -2,7 +2,7 @@
   background-color: #AFA6ED;
   color: white;
   margin: 0;
-  height: 100vh;
+  height: 150vh;
 }
 
 .Project img {
@@ -13,6 +13,6 @@
   margin: 0 60px;
 }
 
-.Project h1 {
+.Project h2 {
   margin: 40px 60px 10px 60px;
 }

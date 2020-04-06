@@ -16,3 +16,5 @@ image: ./moodfood.png
 
 **Lessons Learned:**
 
+[Next Project](/homefree)
+
