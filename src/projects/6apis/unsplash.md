@@ -18,3 +18,5 @@ image: ./unsplash.jpg
 
 [Next Project](/thrive)
 
+[Home](/)
+

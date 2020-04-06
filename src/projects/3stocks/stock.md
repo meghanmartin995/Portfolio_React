@@ -18,3 +18,5 @@ image: ./chart.jpg
 
 [Next Project](/malpensatina)
 
+[Home](/)
+

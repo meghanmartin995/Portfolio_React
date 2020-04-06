@@ -17,4 +17,5 @@ image: ./replast.jpg
 **Lessons Learned:**
 
 [Next Project](/moodfood)
+[Home](/)
 

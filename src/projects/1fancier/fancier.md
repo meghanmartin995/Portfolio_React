@@ -23,5 +23,7 @@ Github: www.github.com/themsinglink/FANCIER_APP
 
 [Next Project](/altura)
 
+[Home](/)
+
 
 

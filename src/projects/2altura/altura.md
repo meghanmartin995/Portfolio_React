@@ -17,3 +17,5 @@ image: ./altura.jpg
 **Lessons Learned:**
 
 [Next Project](/stock)
+
+[Home](/)

@@ -15,3 +15,6 @@ image: ./thrivebg.png
 **Credits:** I worked on this project on a team of four with Miguel Rodriguez, Tanisha O'neill, Madeline Honingform in collaboration with ArcelorMittal and NH Hotel Group
 
 **Lessons Learned:** How to conduct unconventional user research because users will rarely ever tell you what they really need
+
+[Next Project](/lucid)
+[Home](/)

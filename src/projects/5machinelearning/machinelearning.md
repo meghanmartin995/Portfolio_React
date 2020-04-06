@@ -17,3 +17,5 @@ image: ./luis1.png
 **Lessons Learned:**
 
 [Next Project](/unsplash)
+
+[Home](/)
