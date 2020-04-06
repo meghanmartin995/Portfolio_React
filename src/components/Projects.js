@@ -41,8 +41,10 @@ const Projects = () => {
             <div className="Card">
               <Link to={`${edge.node.fields.slug}`}>
               <img src={edge.node.frontmatter.image.childImageSharp.fluid.src} />
-              <h3> {edge.node.frontmatter.title} </h3>
-              <p> {edge.node.frontmatter.text} </p>
+              <div className="CardText">
+                <h3> {edge.node.frontmatter.title} </h3>
+                <p> {edge.node.frontmatter.text} </p>
+              </div>
               </Link>
             </div>
         )

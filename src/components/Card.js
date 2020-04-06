@@ -8,8 +8,10 @@ const Card = props => (
   <div className="Card">
     <Link to="{`/page-2/`}">
       <img src={props.image} />
-      <h3>{props.title}</h3>
-      <p>{props.text}</p>
+      <div className="CardText">
+        <h3>{props.title}</h3>
+        <p>{props.text}</p>
+      </div>
     </Link>
   </div>
 
