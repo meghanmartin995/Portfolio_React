@@ -3,16 +3,23 @@
   color: white;
   margin: 0;
   height: 150vh;
+  display: flex;
+  padding: 150px 40px;
 }
 
 .Project img {
   margin-bottom: 40px;
+  width: 700px;
+  height: 100%;
 }
 
 .Project p {
   margin: 0 60px;
+  font-size: 30px;
+  line-height: 1.9;
 }
 
 .Project h1, h2 {
-  margin: 40px 60px 10px 60px;
+  margin: 40px 60px 50px 60px;
+  font-size: 40px;
 }

@@ -8,6 +8,17 @@ export const query = graphql`
     markdownRemark(fields: {slug: { eq: $slug }}) {
       frontmatter {
         title
+        text
+        role
+        tools
+        credits
+        image {
+          childImageSharp {
+        fluid(maxWidth: 2048, quality: 100) {
+          ...GatsbyImageSharpFluid
+        }
+        }
+      }
       }
       html
     }
@@ -15,13 +26,20 @@ export const query = graphql`
 `
 const Project = (props) => {
   return (
+    <Layout>
 
       <div className="Project">
-        <div dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}>
+        <img src={props.data.markdownRemark.frontmatter.image.childImageSharp.fluid.src} />
+        <div className="ProjectText">
+          <h1>{props.data.markdownRemark.frontmatter.title} </h1>
+          <p> Role: {props.data.markdownRemark.frontmatter.role}</p>
+          <p> Tools: {props.data.markdownRemark.frontmatter.tools}</p>
+          <p> Credits: {props.data.markdownRemark.frontmatter.credits}</p>
         </div>
       </div>
-
-
+        <div dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}>
+        </div>
+    </Layout>
   )
 }
 

@@ -2,19 +2,12 @@
 title: "Replastic"
 text: "a manual for indigenous communities to upcycle plastic"
 image: ./replast.jpg
+role: "x"
+tools: "x"
+credits: "x"
 ---
 
 ![Hero](./replastic2.png)
-
-##Replastic
-
-**Role:**
-
-**Tools:**
-
-**Credits:**
-
-**Lessons Learned:**
 
 [Next Project](/moodfood)
 [Home](/)

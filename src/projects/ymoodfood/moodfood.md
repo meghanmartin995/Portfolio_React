@@ -2,19 +2,12 @@
 title: "Moodfood"
 text: "Nutrition Data Visualizations"
 image: ./moodfood.png
+role: "x"
+tools: "x"
+credits: "x"
 ---
 
 ![Hero](./moodfood.png)
-
-##Moodfood
-
-**Role:**
-
-**Tools:**
-
-**Credits:**
-
-**Lessons Learned:**
 
 [Next Project](/homefree)
 [Home](/)

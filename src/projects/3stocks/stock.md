@@ -2,19 +2,12 @@
 title: "Stock Organizer"
 text: "Web app to organize your stocks on a dashboard"
 image: ./chart.jpg
+role: "x"
+tools: "x"
+credits: "I created this project as a side project to more deeply understand Rails and working with APIs"
 ---
 
 ![Hero](./chart.jpg)
-
-##Stock Organizer
-
-**Role:**
-
-**Tools:**
-
-**Credits:**
-
-**Lessons Learned:**
 
 [Next Project](/malpensatina)
 

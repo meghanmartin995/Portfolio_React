@@ -2,19 +2,12 @@
 title: "Malpensatina"
 text: "Informational website for tuscan farmhouse"
 image: ./malp.jpg
+role: "I created this website for a client who needed a complete redesign of their vacation rental website. My services included UX design, web development, SEO and graphic design."
+tools: "HTML5, CSS, Javascript, Netlify"
+credits: "I created this website on my own for a client."
 ---
 
 ![Hero](./malpensatina.png)
-
-##Malpensatina
-
-**Role:** I created this website for a client who needed a complete redesign of their vacation rental website. My services included UX design, web development, SEO and graphic design.
-
-**Tools:** HTML5, CSS, Javascript, Netlify
-
-**Credits:** I created this website on my own for a client.
-
-**Lessons Learned:**
 
 www.lamalpensatina.com
 
