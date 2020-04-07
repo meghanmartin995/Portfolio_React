@@ -12,6 +12,7 @@ const Projects = () => {
           node {
             frontmatter {
               title
+              doc
               text
               image {
                 childImageSharp {
@@ -44,6 +45,7 @@ const Projects = () => {
               <div className="CardText">
                 <h3> {edge.node.frontmatter.title} </h3>
                 <p> {edge.node.frontmatter.text} </p>
+                <p> {edge.node.frontmatter.doc} </p>
               </div>
               </Link>
             </div>

@@ -1,5 +1,7 @@
 ---
 title: "Replastic"
+doc:  "Design"
+challenge: "Moodfood"
 text: "a manual for indigenous communities to upcycle plastic"
 image: ./replast.jpg
 image1: ./replast.jpg

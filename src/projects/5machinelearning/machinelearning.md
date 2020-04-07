@@ -1,5 +1,7 @@
 ---
 title: "Explorations in Machine Learning"
+doc:  "Code"
+challenge: "Moodfood"
 text: "Facial recognition + Tensorflow.js"
 image: ./luis1.png
 image1: ./luis1.png

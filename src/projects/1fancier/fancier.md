@@ -1,5 +1,7 @@
 ---
 title:  "Fancier"
+doc:  "Design + Code"
+challenge: "Festival clothing is most often generic fast fashion pieces that are only worn once and thrown in the back of our closets. We created Fancier to address this need and "
 text: "Two-sides marketplace for festival clothing"
 image: ./3background.png
 image1: ./3background.png
@@ -7,7 +9,7 @@ image2: ./3background.png
 image3: ./3background.png
 role: "Fullstack web app development, UX research and UI design"
 tools: "Ruby on Rails, Devise, Javascript, AJAX, Pundit, Sass, Stripe, PostgreSQL"
-credits: "Collaborated on a team of four with Kendrikc Rambal, Laura Aunion and Katy Link"
+credits: "Collaborated on a team of four with Kendrikc Rambal, Laura Aunion and Katy Link during Le Wagon bootcamp"
 ---
 
 ![Profile](./Fancier_Screens.png)

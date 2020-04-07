@@ -1,5 +1,7 @@
 ---
 title: "Thrive"
+doc:  "Design"
+challenge: "Moodfood"
 text: "B2B sustainable technology platform"
 image: ./thrivebg.png
 image1: ./thrivebg.png

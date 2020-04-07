@@ -1,10 +1,12 @@
 ---
 title: "Malpensatina"
+doc:  "Design + Code"
+challenge: "The challenge was to design and develop and informational website for guests of a Tuscan farmhouse"
 text: "Informational website for tuscan farmhouse"
 image: ./malp.jpg
-image: ./malp1.jpg
-image: ./malp2.jpg
-image: ./malp3.jpg
+image1: ./malp1.png
+image2: ./malp2.png
+image3: ./malp5.png
 role: "I created this website for a client who needed a complete redesign of their vacation rental website. My services included UX design, web development, SEO and graphic design."
 tools: "HTML5, CSS, Javascript, Netlify"
 credits: "I created this website on my own for a client."

@@ -1,5 +1,7 @@
 ---
 title: "Lucid"
+doc:  "Design"
+challenge: "Moodfood"
 text: "Conversational Cards about the Future of Humanity"
 image: ./lucid33.png
 image1: ./lucid33.png

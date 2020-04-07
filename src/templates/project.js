@@ -9,6 +9,7 @@ export const query = graphql`
       frontmatter {
         title
         text
+        challenge
         role
         tools
         credits
@@ -52,8 +53,7 @@ const Project = (props) => {
       <div className="Project">
 
         <div className="ProjectText">
-          <h1>{props.data.markdownRemark.frontmatter.title} </h1>
-          <h2>{props.data.markdownRemark.frontmatter.text} </h2>
+          <h1>{props.data.markdownRemark.frontmatter.challenge} </h1>
         <div className="ProjectTextS">
           <p> Role: {props.data.markdownRemark.frontmatter.role}</p>
           <p> Tools: {props.data.markdownRemark.frontmatter.tools}</p>
@@ -61,6 +61,7 @@ const Project = (props) => {
         </div>
         </div>
       </div>
+        <h2>process</h2>
         <div className="ProjectGrid">
           <div className="GridItem">
             <img src={props.data.markdownRemark.frontmatter.image1.childImageSharp.fluid.src} />
