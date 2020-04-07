@@ -53,15 +53,24 @@ const Project = (props) => {
 
         <div className="ProjectText">
           <h1>{props.data.markdownRemark.frontmatter.title} </h1>
+          <h2>{props.data.markdownRemark.frontmatter.text} </h2>
+        <div className="ProjectTextS">
           <p> Role: {props.data.markdownRemark.frontmatter.role}</p>
           <p> Tools: {props.data.markdownRemark.frontmatter.tools}</p>
           <p> Credits: {props.data.markdownRemark.frontmatter.credits}</p>
         </div>
+        </div>
       </div>
         <div className="ProjectGrid">
-          <img src={props.data.markdownRemark.frontmatter.image1.childImageSharp.fluid.src} />
-          <img src={props.data.markdownRemark.frontmatter.image2.childImageSharp.fluid.src} />
-          <img src={props.data.markdownRemark.frontmatter.image3.childImageSharp.fluid.src} />
+          <div className="GridItem">
+            <img src={props.data.markdownRemark.frontmatter.image1.childImageSharp.fluid.src} />
+          </div>
+          <div className="GridItem">
+            <img src={props.data.markdownRemark.frontmatter.image2.childImageSharp.fluid.src} />
+          </div>
+          <div className="GridItem">
+            <img src={props.data.markdownRemark.frontmatter.image3.childImageSharp.fluid.src} />
+          </div>
         </div>
     </Layout>
   )
