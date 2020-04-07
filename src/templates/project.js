@@ -17,6 +17,27 @@ export const query = graphql`
         fluid(maxWidth: 2048, quality: 100) {
           ...GatsbyImageSharpFluid
         }
+          }
+        }
+        image1 {
+          childImageSharp {
+        fluid(maxWidth: 2048, quality: 100) {
+          ...GatsbyImageSharpFluid
+          }
+        }
+       }
+        image2 {
+          childImageSharp {
+        fluid(maxWidth: 2048, quality: 100) {
+          ...GatsbyImageSharpFluid
+          }
+        }
+       }
+        image3 {
+          childImageSharp {
+        fluid(maxWidth: 2048, quality: 100) {
+          ...GatsbyImageSharpFluid
+        }
         }
       }
       }
@@ -29,7 +50,7 @@ const Project = (props) => {
     <Layout>
 
       <div className="Project">
-        <img src={props.data.markdownRemark.frontmatter.image.childImageSharp.fluid.src} />
+
         <div className="ProjectText">
           <h1>{props.data.markdownRemark.frontmatter.title} </h1>
           <p> Role: {props.data.markdownRemark.frontmatter.role}</p>
@@ -37,7 +58,10 @@ const Project = (props) => {
           <p> Credits: {props.data.markdownRemark.frontmatter.credits}</p>
         </div>
       </div>
-        <div dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}>
+        <div className="ProjectGrid">
+          <img src={props.data.markdownRemark.frontmatter.image1.childImageSharp.fluid.src} />
+          <img src={props.data.markdownRemark.frontmatter.image2.childImageSharp.fluid.src} />
+          <img src={props.data.markdownRemark.frontmatter.image3.childImageSharp.fluid.src} />
         </div>
     </Layout>
   )

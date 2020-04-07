@@ -2,6 +2,9 @@
 title: "Explorations in Machine Learning"
 text: "Facial recognition + Tensorflow.js"
 image: ./luis1.png
+image1: ./luis1.png
+image2: ./luis1.png
+image3: ./luis1.png
 role: "x"
 tools: "x"
 credits: "x"

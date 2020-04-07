@@ -1,10 +1,19 @@
 .Project {
-  background-color: #AFA6ED;
   color: white;
   margin: 0;
-  height: 150vh;
   display: flex;
-  padding: 150px 40px;
+  padding: 150px 40px 100px 40px;
+  background: #AFA6ED;
+}
+
+.ProjectGrid {
+  text-align: center;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
+
+.ProjectGrid img {
+  width: 400px;
 }
 
 .Project img {
@@ -15,11 +24,11 @@
 
 .Project p {
   margin: 0 60px;
-  font-size: 30px;
+  font-size: 24px;
   line-height: 1.9;
 }
 
-.Project h1, h2 {
-  margin: 40px 60px 50px 60px;
+.Project h1 {
+  margin: 40px 60px 30px 60px;
   font-size: 40px;
 }
