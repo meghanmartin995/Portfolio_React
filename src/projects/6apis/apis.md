@@ -2,6 +2,9 @@
 title: "Explorations in APIs"
 doc:  "Code"
 text: "Image search with Unsplash API"
+challenge: ""
+process: ""
+result: ""
 image: ./unsplash.jpg
 image1: ./unsplash.jpg
 image2: ./unsplash.jpg

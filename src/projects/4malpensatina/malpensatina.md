@@ -3,6 +3,8 @@ title: "Malpensatina"
 doc:  "Design + Code"
 challenge: "The challenge was to design and develop and informational website for guests of a Tuscan farmhouse"
 text: "Informational website for tuscan farmhouse"
+process: ""
+result: ""
 image: ./malp.jpg
 image1: ./malp1.png
 image2: ./malp2.png

@@ -3,6 +3,8 @@ title:  "Fancier"
 doc:  "Design + Code"
 challenge: "Festival clothing is most often generic fast fashion pieces that are only worn once and thrown in the back of our closets. We created Fancier to address this need and "
 text: "Two-sides marketplace for festival clothing"
+process: ""
+result: ""
 image: ./3background.png
 image1: ./3background.png
 image2: ./3background.png
