@@ -61,6 +61,18 @@ const Project = (props) => {
         </div>
         </div>
       </div>
+        <h2>solution</h2>
+        <div className="ProjectGrid">
+          <div className="GridItem">
+            <img src={props.data.markdownRemark.frontmatter.image1.childImageSharp.fluid.src} />
+          </div>
+          <div className="GridItem">
+            <img src={props.data.markdownRemark.frontmatter.image2.childImageSharp.fluid.src} />
+          </div>
+          <div className="GridItem">
+            <img src={props.data.markdownRemark.frontmatter.image3.childImageSharp.fluid.src} />
+          </div>
+        </div>
         <h2>process</h2>
         <div className="ProjectGrid">
           <div className="GridItem">
