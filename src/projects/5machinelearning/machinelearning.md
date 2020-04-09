@@ -9,7 +9,7 @@ image: ./luis1.png
 image1: ./luis1.png
 image2: ./luis1.png
 image3: ./luis1.png
-link: "/altura/"
+link: "/apis/"
 role: "x"
 tools: "x"
 credits: "face_recognition module"
