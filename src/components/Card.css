@@ -1,6 +1,6 @@
 .Card {
   width: 380px;
-  background: #AFA6ED;
+  background: rgba(255, 173, 179, 0.86);
   height: 230px;
   position: relative;
   overflow: hidden;

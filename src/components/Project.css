@@ -3,7 +3,7 @@
   height: 78vh;
   margin: 0;
   padding-top: 160px;
-  background: linear-gradient(180deg, #7461FA 0%, #CBC5F3 99.99%, #FFFFFF 100%), #AFA6ED;
+  background: linear-gradient(180deg, #FF7880 0%, rgba(246, 197, 210, 0.69) 100%);
 }
 
 .ProjectGrid {
@@ -14,7 +14,7 @@
   display: grid;
 }
 
-@media (max-width: 1160px) {
+@media (max-width: 1300px) {
   .ProjectGrid {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -28,6 +28,10 @@
 
   .Project {
     height: 67vh;
+  }
+
+  .Process p {
+    padding: 0 80px 0 80px !important;
   }
 }
 
@@ -51,6 +55,17 @@
   .Project {
     height: 64vh;
   }
+  .Process p {
+    padding: 0 40px 0 40px !important;
+  }
+  .ProjectGrid img {
+    width: 325px !important;
+    height: 250px !important;
+  }
+  .Project {
+    height: 80vh;
+    padding-top: 120px;
+  }
 }
 
 .ProjectGrid img {
@@ -65,7 +80,7 @@
 }
 
 .ProjectText {
-  margin: 35px 20px 65px 50px;
+  margin: 35px 50px 65px 50px;
   text-align: center;
 }
 
@@ -76,12 +91,12 @@
 .Project p {
   text-align: left;
   padding: 0 30px;
-  font-size: 24px;
+  font-size: 22px;
 }
 
 .Project h1 {
   font-weight: 700;
-  font-size: 45px;
+  font-size: 42px;
   margin: 0 75px 50px 75px;
   line-height: 125%;
   text-align: center;
@@ -104,7 +119,7 @@
 }
 
 .Process a {
-  color: #150e47;
+  color: #690000;
   font-size: 17px;
   text-decoration: underline;
 }
@@ -112,9 +127,13 @@
 .Process a:hover {
   opacity: .7;
 }
+
+.Process h2 {
+  color: #690000;
+}
 .Process p {
   line-height: 1.5;
-  padding: 0 60px 0 55px;
+  padding: 0 150px 0 150px;
 }
 
 .NextProject {
@@ -123,7 +142,7 @@
 }
 
 .NextProject i {
-  color: #150e47;
+  color: #690000;
   font-size: 90px;
   opacity: .8;
 }

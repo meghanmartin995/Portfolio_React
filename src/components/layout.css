@@ -17,7 +17,7 @@ a {
 }
 
 .Hero {
-  background: linear-gradient(180deg, rgba(63, 0, 239, 0.76) 0%, rgba(131, 158, 255, 0) 100%, rgba(222, 212, 252, 0) 100%);
+  background:  linear-gradient(180deg, #FF7880 0%, #FB9EA9 33.91%, #F6C5D2 68.23%, rgba(246, 197, 210, 0) 100%);
   font-family: Montserrat;
   height: 780px;
   background-size: cover;
@@ -35,7 +35,7 @@ a {
 }
 
 .HeroGroup span {
-  color: #6113F2;
+  color: #F75252;
 }
 
 .Hero h1 {
@@ -43,7 +43,7 @@ a {
   font-family: Poppins;
   font-size: 72px;
   line-height: 1.2;
-  color: white;
+  color: #F75252;
   opacity: 0;
   animation: HeroAnimation;
   animation-duration: 3s;
@@ -53,7 +53,7 @@ a {
 }
 
 .Hero p {
-  color: rgba(255, 255, 255, 0.8);
+  color: #F75252;
   font-size: 36px;
   line-height: 1.5;
   margin-top: 12px;
@@ -67,7 +67,7 @@ a {
   font-weight: 600;
   color: white;
   text-transform: uppercase;
-  background: rgba(0,0,0, 0.7);
+  background: #F75252;
   padding: 9px 20px;
   border: 1px solid rgba(255,255,255, 0.8);
   border-radius: 20px;
@@ -149,7 +149,7 @@ a {
   font-size: 38px;
   text-align: center;
   font-weight: 700;
-  color: #150e47;
+  color: #690000;
 }
 
 .CardGroup {
@@ -182,12 +182,12 @@ footer {
   font-size: 18px;
   margin-bottom: 20px;
   margin-top: 20px;
-  color: #150e47;
+  color: #690000;
   font-weight: 300;
 }
 
 .Links i {
-  color: #150e47;
+  color: #690000;
   text-align: center;
   font-size: 50px;
   margin: 20px;
