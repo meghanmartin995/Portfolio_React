@@ -68,7 +68,7 @@ const Project = (props) => {
         <Wave />
       </div>
       <div className="Process">
-        <div dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}>
+        <div className="Gif" dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}>
         </div>
         <h2>solution</h2>
         <p>{props.data.markdownRemark.frontmatter.result}</p>
