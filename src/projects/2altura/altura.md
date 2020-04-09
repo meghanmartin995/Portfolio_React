@@ -9,7 +9,6 @@ image: ./altura.jpg
 image1: ./alturax.png
 image2: ./alturay.png
 image3: ./alturaz.png
-gif: ./fancier.gif
 link: "/stock/"
 role: "Design + code: I collaborated on the fullstack development of the web application along with leading the UX design process"
 tools: "Ruby on Rails, Javacscript, Mapbox API, Heroku"

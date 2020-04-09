@@ -1,15 +1,14 @@
 ---
 title: "Stock Organizer"
 doc:  "Design + Code"
-challenge: "My challenge was to further understand Rails and API integration"
+challenge: "My challenge was to further understand Ruby on Rails and API integration"
 text: "Web app to organize your stocks on a dashboard"
-process: ""
-result: ""
+process: "I explored accesible APIs and found the IEX Cloud API for financial data"
+result: "Web app to organize your stocks on a dashboard"
 image: ./chart.png
-image1: ./stock2.png
+image1: ./stock3.png
 image2: ./stock.png
 image3: ./stock1.png
-gif: ./fancier.gif
 link: "/malpensatina/"
 role: "Design + Code: Fullstack development and UI design"
 tools: "Ruby on Rails, Data from IEX Cloud API"
