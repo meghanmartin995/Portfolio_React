@@ -3,7 +3,7 @@
   height: 70vh;
   margin: 0;
   padding-top: 150px;
-  background: linear-gradient(180deg, #AFA6ED 0%, #CBC5F3 61.73%, #FFFFFF 100%), #AFA6ED;
+  background: linear-gradient(180deg, #7461FA 0%, #CBC5F3 99.99%, #FFFFFF 100%), #AFA6ED;
 }
 
 .ProjectGrid {
@@ -48,7 +48,7 @@
 }
 
 .Project h1 {
-  font-size: 40px;
+  font-size: 46px;
   line-height: 1.3;
   font-weight: 700;
 }
