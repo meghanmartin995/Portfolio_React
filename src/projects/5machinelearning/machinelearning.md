@@ -9,6 +9,7 @@ image: ./luis1.png
 image1: ./luis1.png
 image2: ./luis1.png
 image3: ./luis1.png
+link: "/altura/"
 role: "x"
 tools: "x"
 credits: "SuperHi Course"

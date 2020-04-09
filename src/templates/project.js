@@ -2,6 +2,7 @@ import React from 'react'
 import Layout from '../components/layout'
 import { graphql } from 'gatsby'
 import Wave from '../components/Wave';
+import { Link } from "gatsby"
 import "../components/project.css"
 
 export const query = graphql`
@@ -12,7 +13,10 @@ export const query = graphql`
         text
         challenge
         role
+        result
+        process
         tools
+        link
         credits
         image {
           childImageSharp {
@@ -55,16 +59,16 @@ const Project = (props) => {
         <div className="ProjectText">
           <h1>{props.data.markdownRemark.frontmatter.challenge} </h1>
           <div className="ProjectText">
-            <p> Role: {props.data.markdownRemark.frontmatter.role}</p>
-            <p> Tools: {props.data.markdownRemark.frontmatter.tools}</p>
-            <p> Credits: {props.data.markdownRemark.frontmatter.credits}</p>
+            <p><span>Role:</span> {props.data.markdownRemark.frontmatter.role}</p>
+            <p><span>Tools:</span> {props.data.markdownRemark.frontmatter.tools}</p>
+            <p><span>Credits:</span> {props.data.markdownRemark.frontmatter.credits}</p>
           </div>
         </div>
         <Wave />
       </div>
       <div className="Process">
         <h2>solution</h2>
-        <p>{props.data.markdownRemark.frontmatter.solution}</p>
+        <p>{props.data.markdownRemark.frontmatter.result}</p>
         <div className="ProjectGrid">
           <div className="GridItem">
             <img src={props.data.markdownRemark.frontmatter.image1.childImageSharp.fluid.src} />
@@ -90,6 +94,7 @@ const Project = (props) => {
           </div>
         </div>
       </div>
+      <Link className="NextProject" to={props.data.markdownRemark.frontmatter.link}> Next Project</Link>
     </Layout>
   )
 }

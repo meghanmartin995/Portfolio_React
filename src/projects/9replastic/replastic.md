@@ -9,6 +9,7 @@ image: ./replast.jpg
 image1: ./replast.jpg
 image2: ./replast.jpg
 image3: ./replast.jpg
+link: "/replastic/"
 role: "Sustainable design & strategy"
 tools: "Adobe Suite, print design"
 credits: "My team: Manon Dupagne, Emilia Stael Apolo and I"
