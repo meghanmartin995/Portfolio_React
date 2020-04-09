@@ -7,8 +7,8 @@ result: "Wrote a Python script that uses pre-trained facial recognition networks
 text: "Facial recognition + Tensorflow.js"
 image: ./luis1.png
 image1: ./luis1.png
-image2: ./luis1.png
-image3: ./luis1.png
+image2: ./luis2.png
+image3: ./dog3.png
 gif: ./fancier.gif
 link: "/apis/"
 role: "Code: Built a tiny web app that uses the web cam to recognize images using the Mobilenet dataset"

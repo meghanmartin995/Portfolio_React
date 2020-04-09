@@ -6,9 +6,9 @@ text: "Web app to organize your stocks on a dashboard"
 process: ""
 result: ""
 image: ./chart.jpg
-image1: ./chart.jpg
-image2: ./chart.jpg
-image3: ./chart.jpg
+image1: ./stock2.png
+image2: ./stock.png
+image3: ./stock1.png
 gif: ./fancier.gif
 link: "/malpensatina/"
 role: "Design + Code: Fullstack development and UI design"

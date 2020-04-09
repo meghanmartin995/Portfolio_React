@@ -14,7 +14,7 @@ The more we bring this into our conversations the more it impacts our decisions 
 The future won’t be about doing the same thing over and over again. Anything that can be automated will be. We have a choice to be fearful of this or to embrace it and let it give the chance to discover a richer path of life fulfillment. I think that path should be of conversation and knowledge sharing."
 text: "Conversational Cards about the Future of Humanity"
 image: ./lucid33.png
-image1: ./lucid33.png
+image1: ./5lucid.png
 image2: ./lucid33.png
 image3: ./lucid33.png
 gif: ./fancier.gif
@@ -26,4 +26,5 @@ credits: "This project was my final Design Strategy masters project at Instituto
 
 
 ![Gif](lucid.gif)
+[Website link](https://3eeed6f4-f802-4461-9042-b0fbb17c7fc3.filesusr.com/ugd/0ec7ce_e36950ef1d5f434a9842db913aea108a.pdf "see all cards")
 
