@@ -12,9 +12,9 @@ image3: ./replast.jpg
 gif: ./fancier.gif
 video: "./images/fancier.mov"
 link: "/fancier/"
-role: "Sustainable design & strategy"
+role: "Design: Sustainable design & strategy"
 tools: "Adobe Suite, print design"
-credits: "My team: Manon Dupagne, Emilia Stael Apolo and I"
+credits: "My team: Manon Dupagne, Emilia Stael Apolo and I, and our client Omacha Foundation"
 ---
 
 

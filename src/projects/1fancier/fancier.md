@@ -12,7 +12,7 @@ image3: ./3background.png
 gif: ./fancier.gif
 
 link: "/altura/"
-role: "Fullstack web app development, UX research and UI design"
+role: "Design + Code: Fullstack web app development, UX research and UI design"
 tools: "Ruby on Rails, Devise, Javascript, AJAX, Pundit, Sass, Stripe, PostgreSQL"
 credits: "Collaborated on a team of four with Kendrikc Rambal, Laura Aunion and Katy Link during Le Wagon bootcamp"
 ---

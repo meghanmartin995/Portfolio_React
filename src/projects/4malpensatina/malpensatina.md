@@ -12,7 +12,7 @@ image2: ./malp2.png
 image3: ./malp5.png
 gif: ./fancier.gif
 link: "/machinelearning/"
-role: "I created this website for a client who needed a complete redesign of their vacation rental website. My services included UX design, web development, SEO and graphic design."
+role: "Design + Code: I created this website for a client who needed a complete redesign of their vacation rental website. My services included UX design, web development, SEO and graphic design."
 tools: "HTML5, CSS, Javascript, Netlify"
 credits: "I created this website on my own for a client."
 ---

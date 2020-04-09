@@ -11,8 +11,8 @@ image2: ./altura.jpg
 image3: ./altura.jpg
 gif: ./fancier.gif
 link: "/stock/"
-role: "x"
-tools: "x"
+role: "Design + code: "
+tools: "Ruby on Rails, Javacscript, Mapbox API, Heroku"
 credits: "Collaborated on a team of four with Kendrikc Rambal, Laura Aunion and Katy Link"
 ---
 
