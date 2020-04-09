@@ -9,10 +9,11 @@ image: ./chart.jpg
 image1: ./chart.jpg
 image2: ./chart.jpg
 image3: ./chart.jpg
-gif: ./stock.gif
+gif: ./fancier.gif
 link: "/malpensatina/"
 role: "x"
 tools: "x"
 credits: "I created this project as a side project to more deeply understand Rails and working with APIs"
 ---
 
+![Gif](stock.gif)

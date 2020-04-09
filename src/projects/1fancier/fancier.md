@@ -10,14 +10,14 @@ image1: ./fancier_profile.png
 image2: ./3background.png
 image3: ./3background.png
 gif: ./fancier.gif
+
 link: "/altura/"
 role: "Fullstack web app development, UX research and UI design"
 tools: "Ruby on Rails, Devise, Javascript, AJAX, Pundit, Sass, Stripe, PostgreSQL"
 credits: "Collaborated on a team of four with Kendrikc Rambal, Laura Aunion and Katy Link during Le Wagon bootcamp"
 ---
 
-
-Video one:
-![](fancier.mp4)
-
+![Gif](fancier.gif)
+<br>
+[Website link](https://www.getfancier.com "www.getfancier.com")
 

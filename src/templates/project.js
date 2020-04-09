@@ -17,6 +17,7 @@ export const query = graphql`
         process
         tools
         link
+        video
         credits
         image {
           childImageSharp {
@@ -67,7 +68,8 @@ const Project = (props) => {
         <Wave />
       </div>
       <div className="Process">
-
+        <div dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}>
+        </div>
         <h2>solution</h2>
         <p>{props.data.markdownRemark.frontmatter.result}</p>
 
@@ -86,7 +88,6 @@ const Project = (props) => {
         </div>
       </div>
       <div className="NextProject">
-      <div dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}></div>
         <Link to={props.data.markdownRemark.frontmatter.link}> <i class="fas fa-chevron-circle-right"></i></Link>
       </div>
     </Layout>

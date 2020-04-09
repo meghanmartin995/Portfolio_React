@@ -1,6 +1,6 @@
 .Card {
   width: 380px;
-  background: linear-gradient(180deg, rgba(88, 66, 241, 0.67) 0%, rgba(147, 132, 255, 0.86) 0.01%, #CBC5F3 99.99%, #A699FE 100%), #AFA6ED;
+  background: #AFA6ED;
   height: 230px;
   position: relative;
   overflow: hidden;
@@ -15,11 +15,22 @@
 .Card:hover {
   transform: scale(1.1, 1.1);
   box-shadow: 0 30px 60px rgba(0,0,0 0.5);
-  transform: rotate(0deg);
 }
 
 .Card:hover img {
   transform: translateY(-20px);
+}
+
+.Card:hover h3 {
+  opacity: .7;
+}
+
+.Card:hover p {
+  opacity: .8;
+}
+
+.Card:hover img {
+  opacity: .8;
 }
 
 .Card img {
@@ -28,7 +39,7 @@
   height: 110%;
   z-index: -1;
   width: 100%;
-  transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
+  transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 
 .Card h3 {
@@ -46,10 +57,10 @@
 }
 
 .Card span {
-    text-transform: uppercase;
-    margin: 20px;
-    font-size: 22px;
-    font-weight: 600;
-    text-align: center;
-    display: none;
+  text-transform: uppercase;
+  margin: 20px;
+  font-size: 22px;
+  font-weight: 600;
+  text-align: center;
+  display: none;
 }

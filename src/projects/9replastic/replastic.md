@@ -9,9 +9,14 @@ image: ./replast.jpg
 image1: ./replast.jpg
 image2: ./replast.jpg
 image3: ./replast.jpg
-gif: ./replastic.gif
+gif: ./fancier.gif
+video: "./images/fancier.mov"
 link: "/fancier/"
 role: "Sustainable design & strategy"
 tools: "Adobe Suite, print design"
 credits: "My team: Manon Dupagne, Emilia Stael Apolo and I"
 ---
+
+
+![Gif](replastic.gif)
+[Website link](https://3eeed6f4-f802-4461-9042-b0fbb17c7fc3.filesusr.com/ugd/0ec7ce_e36950ef1d5f434a9842db913aea108a.pdf "see ebook")

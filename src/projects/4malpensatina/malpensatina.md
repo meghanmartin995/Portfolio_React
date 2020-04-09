@@ -10,13 +10,14 @@ image: ./malp.jpg
 image1: ./malp1.png
 image2: ./malp2.png
 image3: ./malp5.png
-gif: ./malpensatina.gif
+gif: ./fancier.gif
 link: "/machinelearning/"
 role: "I created this website for a client who needed a complete redesign of their vacation rental website. My services included UX design, web development, SEO and graphic design."
 tools: "HTML5, CSS, Javascript, Netlify"
 credits: "I created this website on my own for a client."
 ---
 
-
+![Gif](malpensatina.gif)
+[Website link](https://www.lamalpensatina.com "www.lamalpensatina.com")
 
 

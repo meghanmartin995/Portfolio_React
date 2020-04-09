@@ -9,9 +9,14 @@ image: ./altura.jpg
 image1: ./altura.jpg
 image2: ./altura.jpg
 image3: ./altura.jpg
-gif: ./altura.gif
+gif: ./fancier.gif
 link: "/stock/"
 role: "x"
 tools: "x"
 credits: "Collaborated on a team of four with Kendrikc Rambal, Laura Aunion and Katy Link"
 ---
+
+
+![Gif](altura.gif)
+<br>
+[Website link](https://www.alturajet.heroku.com "www.alturajet.heroku.com")

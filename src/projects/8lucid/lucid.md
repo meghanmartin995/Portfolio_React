@@ -17,9 +17,12 @@ image: ./lucid33.png
 image1: ./lucid33.png
 image2: ./lucid33.png
 image3: ./lucid33.png
-gif: ./lucid.gif
+gif: ./fancier.gif
 role: "Graphic design and brand strategy"
 tools: "Adobe Suite"
 link: "/replastic/"
 credits: "This project was my final Design Strategy masters project at Instituto Europeo di Design."
 ---
+
+
+![Gif](lucid.gif)
