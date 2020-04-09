@@ -3,8 +3,9 @@ title: "Malpensatina"
 doc:  "Design + Code"
 challenge: "How could I redesign a website for a Tuscan farmhouse to showcase its beauty for future guests?"
 text: "Informational website for tuscan farmhouse"
-process: ""
-result: ""
+process: "www.lamalpensatina.com"
+result: "The website is an informational website highlighting the beauty of a farmhouse in Tuscany, Italy. It also includes essential logistics and downloads. I created custom graphic design to give the website a unique and warm feel. I also designed a 15 page welcome packet to send to guests upon booking with all details about the house and area.
+"
 image: ./malp.jpg
 image1: ./malp1.png
 image2: ./malp2.png
@@ -15,12 +16,6 @@ tools: "HTML5, CSS, Javascript, Netlify"
 credits: "I created this website on my own for a client."
 ---
 
-![Hero](./malpensatina.png)
 
-www.lamalpensatina.com
 
-The website is an informational website highlighting the beauty of a farmhouse in Tuscany, Italy. It also includes essential logistics and downloads. I created custom graphic design to give the website a unique and warm feel. I also designed a 15 page welcome packet to send to guests upon booking with all details about the house and area.
 
-[Next Project](/machinelearning)
-
-[Home](/)

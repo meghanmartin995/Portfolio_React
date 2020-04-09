@@ -22,7 +22,3 @@ tools: "Adobe Suite"
 link: "/replastic/"
 credits: "This project was my final Design Strategy masters project at Instituto Europeo di Design."
 ---
-
-[Next Project](/replastic)
-[Home](/)
-

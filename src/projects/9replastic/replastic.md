@@ -14,9 +14,3 @@ role: "Sustainable design & strategy"
 tools: "Adobe Suite, print design"
 credits: "My team: Manon Dupagne, Emilia Stael Apolo and I"
 ---
-
-![Hero](./replastic2.png)
-
-[Next Project](/moodfood)
-[Home](/)
-

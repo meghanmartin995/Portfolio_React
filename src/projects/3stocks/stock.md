@@ -15,9 +15,3 @@ tools: "x"
 credits: "I created this project as a side project to more deeply understand Rails and working with APIs"
 ---
 
-![Hero](./chart.jpg)
-
-[Next Project](/malpensatina)
-
-[Home](/)
-

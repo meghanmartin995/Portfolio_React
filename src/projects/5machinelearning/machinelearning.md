@@ -14,9 +14,3 @@ role: "x"
 tools: "x"
 credits: "face_recognition module"
 ---
-
-![Hero](./luis1.png)
-
-[Next Project](/apis)
-
-[Home](/)

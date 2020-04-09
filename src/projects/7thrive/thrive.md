@@ -14,7 +14,3 @@ tools: "UX research: deep interviews, stakeholders & territory maps, benchmarkin
 credits: "I worked on this project on a team of four with Miguel Rodriguez, Tanisha O'Neill, Madeline Honingford in collaboration with ArcelorMittal and NH Hotel Group"
 ---
 
-![Hero](./thrive.png)
-
-[Next Project](/lucid)
-[Home](/)

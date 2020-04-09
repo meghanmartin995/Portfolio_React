@@ -15,9 +15,3 @@ tools: "x"
 credits: "SuperHi Course"
 ---
 
-![Hero](./unsplash.jpg)
-
-[Next Project](/thrive)
-
-[Home](/)
-
