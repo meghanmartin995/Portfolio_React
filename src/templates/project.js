@@ -3,7 +3,7 @@ import Layout from '../components/layout'
 import { graphql } from 'gatsby'
 import Wave from '../components/Wave';
 import { Link } from "gatsby"
-import "../components/project.css"
+import "../components/Project.css"
 
 export const query = graphql`
   query($slug: String!) {
