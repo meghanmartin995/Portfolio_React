@@ -17,3 +17,5 @@ credits: "I created this project as a side project to more deeply understand Rai
 ---
 
 ![Gif](stock.gif)
+<br>
+[Github Repo](https://github.com/meghanmartin995/-stock_market "https://github.com/meghanmartin995/-stock_market")

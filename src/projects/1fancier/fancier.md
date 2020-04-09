@@ -20,4 +20,6 @@ credits: "Collaborated on a team of four with Kendrikc Rambal, Laura Aunion and 
 ![Gif](fancier.gif)
 <br>
 [Website link](https://www.getfancier.com "www.getfancier.com")
+<br>
+[Github Repo](https://github.com/themsinglink/FANCIER_APP "https://github.com/themsinglink/FANCIER_APP")
 

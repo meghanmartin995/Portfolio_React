@@ -17,3 +17,6 @@ credits: "Tensorflow.js, face_recognition module"
 ---
 
 ![Gif](machinelearning.gif)
+<br>
+[Github Repo](https://github.com/meghanmartin995/python_facial_recognition "https://github.com/meghanmartin995/python_facial_recognition")
+

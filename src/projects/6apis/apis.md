@@ -19,3 +19,6 @@ credits: "SuperHi Course: Ajax + APIs"
 ![Gif](apis.gif)
 <br>
 [Website link](https://www.photo-search-18.superhi.com "www.photo-search-18.superhi.com")
+<br>
+[Github Repo](https://github.com/meghanmartin995/Photo-Search-JS "https://github.com/meghanmartin995/Photo-Search-JS")
+

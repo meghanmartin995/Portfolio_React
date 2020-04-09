@@ -20,5 +20,5 @@ credits: "This project was my final Design Strategy masters project at Instituto
 
 ![Gif](lucid.gif)
 <br>
-[Website link](https://3eeed6f4-f802-4461-9042-b0fbb17c7fc3.filesusr.com/ugd/0ec7ce_e36950ef1d5f434a9842db913aea108a.pdf "see all cards")
+[Website link](http://online.fliphtml5.com/pxwga/bivh/ "see all cards")
 
