@@ -175,6 +175,10 @@ a {
     margin-bottom: 32px;
     font-size: 30px;
   }
+
+  .Card {
+    width: 345px !important;
+  }
 }
 
 footer {
