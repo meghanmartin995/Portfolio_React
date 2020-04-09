@@ -5,8 +5,8 @@ challenge: "How could we make festival clothing shopping more sustainable, memor
 text: "Two-sides marketplace for festival clothing"
 process: "user research. benchmarking. wireframes. prototyping. testing. hi fis. iterating. building."
 result: "On a team of four we built Fancier, a two-sided sustainable marketplace for festival outfits. Users are able to buy and sell festival clothing, along with create profiles, favorites, write reviews, see product recommendations and view dashboard to track shipments and purchases. I led the UX design process, while we all collaborated on the development of the Ruby on Rails application. Sign up: www.getfancier.com (mobile-only) Github: www.github.com/themsinglink/FANCIER_APP"
-image: ./fancier_profile.png
-image1: ./3background.png
+image: ./3background.png
+image1: ./fancier_profile.png
 image2: ./3background.png
 image3: ./3background.png
 link: "/altura/"

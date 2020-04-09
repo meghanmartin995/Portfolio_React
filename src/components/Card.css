@@ -1,9 +1,10 @@
 .Card {
   width: 380px;
-  height: 310px;
+  background: linear-gradient(180deg, rgba(88, 66, 241, 0.67) 0%, rgba(147, 132, 255, 0.86) 0.01%, #CBC5F3 99.99%, #A699FE 100%), #AFA6ED;
+  height: 230px;
   position: relative;
   overflow: hidden;
-/*  border-radius: 20px;*/
+  border-radius: 10px;
   display: grid;
   grid-template-rows: 1fr 1fr;
   transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
@@ -32,15 +33,23 @@
 
 .Card h3 {
   font-size: 30px;
-  margin: 20px 0 0 20px;
-  width: 190px;
+  margin: 20px 15px 20px 20px;
+  line-height: 1.1;
 }
 
 .Card p {
   color: rgba(255,255,255, 0.8);
   text-transform: uppercase;
   font-weight: 600;
-  font-size: 16px;
-  align-self: end;
+  font-size: 19px;
   margin: 0 0 20px 20px;
+}
+
+.Card span {
+    text-transform: uppercase;
+    margin: 20px;
+    font-size: 22px;
+    font-weight: 600;
+    text-align: center;
+    display: none;
 }

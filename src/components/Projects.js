@@ -45,7 +45,7 @@ const Projects = () => {
               <div className="CardText">
                 <h3> {edge.node.frontmatter.title} </h3>
                 <p> {edge.node.frontmatter.text} </p>
-                <p> {edge.node.frontmatter.doc} </p>
+                <span>{edge.node.frontmatter.doc} </span>
               </div>
               </Link>
             </div>

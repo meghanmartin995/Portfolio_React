@@ -1,5 +1,5 @@
 ---
-title: "Explorations in Machine Learning"
+title: "Explorations: Machine Learning"
 doc:  "Code"
 challenge: "I wanted to further explores the possibilities with machine learning and Python"
 process: "x"

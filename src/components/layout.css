@@ -35,7 +35,7 @@ a {
 }
 
 .HeroGroup span {
-  color: #FFC6E5;
+  color: #6113F2;
 }
 
 .Hero h1 {
@@ -146,13 +146,10 @@ a {
 
 .Cards h2 {
   margin: 0 20px 40px 20px;
-  font-size: 32px;
+  font-size: 38px;
   text-align: center;
-  text-transform: uppercase;
   font-weight: 700;
-  background: linear-gradient(104deg, #14004C 0%, rgba(44, 2, 157, 0.83) 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #150e47;
 }
 
 .CardGroup {

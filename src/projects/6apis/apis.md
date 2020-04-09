@@ -1,5 +1,5 @@
 ---
-title: "Explorations in APIs"
+title: "Explorations: APIs"
 doc:  "Code"
 text: "Image search with Unsplash API"
 challenge: "I wanted to further explore APIs"
