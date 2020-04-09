@@ -1,6 +1,7 @@
 import React from 'react'
 import Layout from '../components/layout'
 import { graphql } from 'gatsby'
+import Wave from '../components/Wave';
 import "../components/project.css"
 
 export const query = graphql`
@@ -51,16 +52,17 @@ const Project = (props) => {
     <Layout>
 
       <div className="Project">
-
         <div className="ProjectText">
           <h1>{props.data.markdownRemark.frontmatter.challenge} </h1>
-        <div className="ProjectTextS">
-          <p> Role: {props.data.markdownRemark.frontmatter.role}</p>
-          <p> Tools: {props.data.markdownRemark.frontmatter.tools}</p>
-          <p> Credits: {props.data.markdownRemark.frontmatter.credits}</p>
+          <div className="ProjectText">
+            <p> Role: {props.data.markdownRemark.frontmatter.role}</p>
+            <p> Tools: {props.data.markdownRemark.frontmatter.tools}</p>
+            <p> Credits: {props.data.markdownRemark.frontmatter.credits}</p>
+          </div>
         </div>
-        </div>
+        <Wave />
       </div>
+      <div className="Process">
         <h2>solution</h2>
         <p>{props.data.markdownRemark.frontmatter.solution}</p>
         <div className="ProjectGrid">
@@ -87,6 +89,7 @@ const Project = (props) => {
             <img src={props.data.markdownRemark.frontmatter.image3.childImageSharp.fluid.src} />
           </div>
         </div>
+      </div>
     </Layout>
   )
 }

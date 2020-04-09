@@ -1,7 +1,7 @@
 ---
 title: "Malpensatina"
 doc:  "Design + Code"
-challenge: "The challenge was to design and develop and informational website for guests of a Tuscan farmhouse"
+challenge: "How could I redesign a website for a Tuscan farmhouse to showcase its beauty for future guests?"
 text: "Informational website for tuscan farmhouse"
 process: ""
 result: ""

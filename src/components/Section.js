@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import Wave from '../components/Wave';
 
 const SectionGroup = styled.div `
-  background: rgba(127, 104, 242, 0.9);
+  background: #7765F6;
   height: 1000px;
   background-size: cover;
   display: grid;

@@ -2,7 +2,7 @@
 title: "Explorations in APIs"
 doc:  "Code"
 text: "Image search with Unsplash API"
-challenge: ""
+challenge: "I wanted to further explore APIs"
 process: ""
 result: ""
 image: ./unsplash.jpg

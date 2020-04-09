@@ -1,7 +1,7 @@
 ---
 title: "Lucid"
 doc:  "Design"
-challenge: "How could we democratize the conversation about the future of technology?"
+challenge: "How can we democratize the conversation about the future of technology?"
 process: "Lucid is a set of 250 conversation cards that prompt thinking differently and creating optimal future scenarios for humanity.
 
 It's not about what will happen, it's about what we should do.
@@ -17,12 +17,10 @@ image: ./lucid33.png
 image1: ./lucid33.png
 image2: ./lucid33.png
 image3: ./lucid33.png
-role: "x"
-tools: "x"
-credits: "x"
+role: "Graphic design and brand strategy"
+tools: "Adobe Suite"
+credits: "This project was my final Design Strategy masters project at Instituto Europeo di Design."
 ---
-
-![Hero](./5lucid.png)
 
 [Next Project](/replastic)
 [Home](/)

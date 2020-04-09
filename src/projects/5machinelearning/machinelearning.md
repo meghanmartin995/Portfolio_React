@@ -1,7 +1,7 @@
 ---
 title: "Explorations in Machine Learning"
 doc:  "Code"
-challenge: "x"
+challenge: "I wanted to further explores the possibilities with machine learning and Python"
 process: "x"
 result: "x"
 text: "Facial recognition + Tensorflow.js"
