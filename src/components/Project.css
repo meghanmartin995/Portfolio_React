@@ -78,7 +78,14 @@
 }
 
 .NextProject {
-  background: black;
+  text-align: center;
+  margin: 80px 0;
 }
+
+.NextProject i {
+  color: black;
+  font-size: 100px;
+}
+
 
 

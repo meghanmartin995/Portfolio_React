@@ -94,7 +94,9 @@ const Project = (props) => {
           </div>
         </div>
       </div>
-      <Link className="NextProject" to={props.data.markdownRemark.frontmatter.link}> Next Project</Link>
+      <div className="NextProject">
+        <Link to={props.data.markdownRemark.frontmatter.link}> <i class="fas fa-chevron-circle-right"></i></Link>
+      </div>
     </Layout>
   )
 }

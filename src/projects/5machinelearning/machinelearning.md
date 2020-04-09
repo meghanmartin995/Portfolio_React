@@ -12,7 +12,7 @@ image3: ./luis1.png
 link: "/altura/"
 role: "x"
 tools: "x"
-credits: "SuperHi Course"
+credits: "face_recognition module"
 ---
 
 ![Hero](./luis1.png)
