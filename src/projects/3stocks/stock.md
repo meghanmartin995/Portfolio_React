@@ -5,7 +5,7 @@ challenge: "My challenge was to further understand Rails and API integration"
 text: "Web app to organize your stocks on a dashboard"
 process: ""
 result: ""
-image: ./chart.jpg
+image: ./chart.png
 image1: ./stock2.png
 image2: ./stock.png
 image3: ./stock1.png

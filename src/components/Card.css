@@ -22,11 +22,11 @@
 }
 
 .Card:hover h3 {
-  opacity: .7;
+  display: none;
 }
 
 .Card:hover p {
-  opacity: .8;
+  display: none;
 }
 
 .Card:hover img {
@@ -44,7 +44,7 @@
 
 .Card h3 {
   font-size: 30px;
-  margin: 20px 15px 20px 20px;
+  margin: 20px 15px 7px 20px;
   line-height: 1.1;
 }
 

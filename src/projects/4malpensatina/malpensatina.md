@@ -6,7 +6,7 @@ text: "Informational website for tuscan farmhouse"
 process: "www.lamalpensatina.com"
 result: "The website is an informational website highlighting the beauty of a farmhouse in Tuscany, Italy. It also includes essential logistics and downloads. I created custom graphic design to give the website a unique and warm feel. I also designed a 15 page welcome packet to send to guests upon booking with all details about the house and area.
 "
-image: ./malp.jpg
+image: ./bgmalp.png
 image1: ./malp1.png
 image2: ./malp2.png
 image3: ./malp5.png
