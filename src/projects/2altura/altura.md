@@ -9,6 +9,7 @@ image: ./altura.jpg
 image1: ./altura.jpg
 image2: ./altura.jpg
 image3: ./altura.jpg
+gif: ./altura.gif
 link: "/stock/"
 role: "x"
 tools: "x"

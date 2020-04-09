@@ -8,6 +8,7 @@ image: ./thrivebg.png
 image1: ./thrivebg.png
 image2: ./thrivebg.png
 image3: ./thrivebg.png
+gif: ./thrive.gif
 link: "/lucid/"
 role: "UX Design, Product Design and Strategy for ArcelorMittal Research & Development"
 tools: "UX research: deep interviews, stakeholders & territory maps, benchmarking, live prototyping, UX design: Sketch, Adobe Suite, data visualization"

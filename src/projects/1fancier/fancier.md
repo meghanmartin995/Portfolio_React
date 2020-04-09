@@ -9,6 +9,7 @@ image: ./3background.png
 image1: ./fancier_profile.png
 image2: ./3background.png
 image3: ./3background.png
+gif: ./fancier.gif
 link: "/altura/"
 role: "Fullstack web app development, UX research and UI design"
 tools: "Ruby on Rails, Devise, Javascript, AJAX, Pundit, Sass, Stripe, PostgreSQL"
@@ -16,6 +17,7 @@ credits: "Collaborated on a team of four with Kendrikc Rambal, Laura Aunion and 
 ---
 
 
-
+Video one:
+![](fancier.mp4)
 
 

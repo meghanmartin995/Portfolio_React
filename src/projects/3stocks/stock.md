@@ -9,6 +9,7 @@ image: ./chart.jpg
 image1: ./chart.jpg
 image2: ./chart.jpg
 image3: ./chart.jpg
+gif: ./stock.gif
 link: "/malpensatina/"
 role: "x"
 tools: "x"

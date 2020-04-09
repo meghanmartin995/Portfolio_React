@@ -9,6 +9,7 @@ image: ./luis1.png
 image1: ./luis1.png
 image2: ./luis1.png
 image3: ./luis1.png
+gif: ./machinelearning.gif
 link: "/apis/"
 role: "x"
 tools: "x"
