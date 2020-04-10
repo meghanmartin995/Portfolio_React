@@ -3,7 +3,7 @@ title: "Malpensatina"
 doc:  "Design + Code"
 challenge: "How could I redesign a website for a Tuscan farmhouse to showcase its beauty for future guests?"
 text: "Informational website for tuscan farmhouse"
-process: "This website was inspired by the St. Regus Venice website. Below are the Figma mockups of both mobile and desktop that were approved by the client before development. I learned a lot about website performance to get the final loading speed to 3s. This is why for my portfolio I decided to build with Gatbsy."
+process: "This website was inspired by the St. Regus Venice website. Below are the Figma mockups of both mobile and desktop that were approved by the client before development. I learned a lot about website performance to get the final loading speed to 3s. This is why for my portfolio I decided to build with Gatbsy which as a framework has much faster performance."
 result: "The website is an informational website highlighting the beauty of a farmhouse in Tuscany, Italy. It includes essential logistics and downloads for the guest experience. I created custom graphic design to give the website a unique and warm feel. I also designed a 15 page welcome packet to send to guests upon booking with all details about the house and area."
 image: ./bgmalp.png
 image1: ./researchm.png
