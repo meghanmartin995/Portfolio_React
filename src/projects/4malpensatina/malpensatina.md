@@ -10,7 +10,7 @@ image1: ./researchm.png
 image2: ./protomm.png
 image3: ./dmp.png
 link: "/machinelearning/"
-role: "Design + Code: I created this website for a client who needed a redesign of their property website (UX and graphic design, development and SEO)"
+role: "Design + Code: I created this website for a client who needed a redesign of their Tuscan property's website (UX and graphic design, development and SEO)"
 tools: "HTML5, CSS, Javascript, Netlify, SEO"
 credits: "Solo project"
 ---
