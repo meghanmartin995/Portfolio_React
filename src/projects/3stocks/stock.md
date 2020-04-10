@@ -6,9 +6,9 @@ text: "Web app to organize your stocks on a dashboard"
 process: "I explored accesible APIs and found the IEX Cloud API for financial data"
 result: "Web app to organize your stocks on a dashboard"
 image: ./chart.png
-image1: ./stock3.png
-image2: ./stock.png
-image3: ./stock1.png
+image1: ./ress.png
+image2: ./mocks.png
+image3: ./devss-01.png
 link: "/malpensatina/"
 role: "Design + Code: Fullstack development and UI design"
 tools: "Ruby on Rails, Data from IEX Cloud API"

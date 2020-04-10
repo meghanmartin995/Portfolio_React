@@ -3,13 +3,12 @@ title:  "Fancier"
 doc:  "Design + Code"
 challenge: "How can we make festival clothing shopping more sustainable, memorable and unique?"
 text: "Two-sided marketplace for festival clothing"
-process: "user research. benchmarking. wireframes. prototyping. testing. hi fis. iterating. building."
+process: "user research. benchmarking. wireframes. prototyping. testing. hi fis. iterating. building. We followed a Trello board and presented daily standups"
 result: "On a team of four we built Fancier, a two-sided sustainable marketplace for festival outfits. Users are able to buy and sell festival clothing, along with create profiles, favorites, write reviews, see product recommendations and view dashboard to track shipments and purchases. I led the UX design process, while we all collaborated on the development of the Ruby on Rails application."
 image: ./fancier.png
-image1: ./f.png
-image2: ./f1.png
-image3: ./f2.png
-gif: ./fancier.gif
+image1: ./research.png
+image2: ./proto1.png
+image3: ./development-01.png
 
 link: "/altura/"
 role: "Design + Code: Fullstack web app development, UX research and UI design"

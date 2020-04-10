@@ -77,12 +77,15 @@ const Project = (props) => {
         <p>{props.data.markdownRemark.frontmatter.process}</p>
         <div className="ProjectGrid">
           <div className="GridItem">
+            <h3>Research</h3>
             <img src={props.data.markdownRemark.frontmatter.image1.childImageSharp.fluid.src} />
           </div>
           <div className="GridItem">
+            <h3>Prototyping</h3>
             <img src={props.data.markdownRemark.frontmatter.image2.childImageSharp.fluid.src} />
           </div>
           <div className="GridItem">
+            <h3>Development</h3>
             <img src={props.data.markdownRemark.frontmatter.image3.childImageSharp.fluid.src} />
           </div>
         </div>

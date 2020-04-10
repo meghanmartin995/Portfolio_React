@@ -3,13 +3,12 @@ title: "Explorations: APIs"
 doc:  "Code"
 text: "Image search with Unsplash API"
 challenge: "My challenge was to further explore APIs, AJAX and Javascript"
-process: "In order to practice working with APIs and Javascript, throughout the course I also created a restaurant website that connects with Contentful CMS via JSON so a client can easily update content, a bitcoin tracker where the user can choice the currency, and a random quote generator."
+process: "In order to further practice working with APIs and Javascript, throughout the SuperHi course I also created a restaurant website that connects with Contentful CMS via JSON so a client can easily update content, a bitcoin tracker where the user can choice the currency and a random quote generator."
 result: "The image searcher integrates with Unsplash API to display images tailored to search queries."
 image: ./b.png
-image3: ./chicken.png
-image2: ./bitcoin.png
-image1: ./quote.png
-gif: ./fancier.gif
+image1: ./unsplash.png
+image2: ./apide-01.png
+image3: ./search-01.png
 link: "/thrive/"
 role: "The projects were a part of SuperHi's course to create data-driven interactive sites"
 tools: "Unsplash API, Javascript"
