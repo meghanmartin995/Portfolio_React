@@ -3,7 +3,7 @@ title: "Altura"
 doc:  "Design + Code"
 challenge: "Our challenge was to create an Airbnb clone in two weeks."
 text: "Online marketplace for private jets"
-process: "I collaborated on this project with three developers. We split the work by user stories that we prioritized were of the highest value to our target market. I focused on creating a dashboard of booking and user data. Below are the Figma mockups we created in order to test on users and prototype before development."
+process: "I collaborated on this project with a team of three developers. We split the work by user stories that we prioritized were of the highest value to our target market. I focused on the booking process for the user and creating a dashboard to visualize booking and user data. Below are the Figma mockups we created in order to test on users and prototype before development."
 result: "Our team created an online marketplace for private jets inspired by Rosalia. The apps functionality is a two-sided marketplace: both listing a plane to rent and booking a plane. Users are able to rent jets listed by other users on the app. We implemented a multisearch feature that accounts for typos and associations. We also integrated with Mapbox API to show geolocations of plane listings."
 image: ./altura.jpg
 image1: ./ret-01.png

@@ -3,8 +3,8 @@ title: "Stock Organizer"
 doc:  "Design + Code"
 challenge: "My challenge was to further understand Ruby on Rails and API integration"
 text: "Web app to organize your stocks on a dashboard"
-process: "I explored accesible APIs and found the IEX Cloud API for financial data"
-result: "Web app to organize your stocks on a dashboard"
+process: "I explored accesible APIs and found the IEX Cloud API for financial data which I integrated into the Rails application"
+result: "I created a web app to organize the stocks you follow on one dashboard"
 image: ./chart.png
 image1: ./ress.png
 image2: ./mocks.png
