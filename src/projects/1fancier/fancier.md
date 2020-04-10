@@ -11,9 +11,9 @@ image2: ./proto1.png
 image3: ./development-01.png
 
 link: "/altura/"
-role: "Design + Code: Fullstack web app development, UX research and UI design"
-tools: "Ruby on Rails, Devise, Javascript, AJAX, Pundit, Sass, Stripe, PostgreSQL"
-credits: "Collaborated on a team of four with Kendrikc Rambal, Laura Aunion and Katy Link during Le Wagon bootcamp"
+role: "Design + Code: Fullstack development, UX research/UI design"
+tools: "Rails, Devise, Javascript, AJAX, Pundit, Sass, Stripe, PostgreSQL"
+credits: "Collaborated with Kendrikc Rambal, Laura Aunion and Katy Link during Le Wagon"
 ---
 
 ![Gif](fancier.gif)

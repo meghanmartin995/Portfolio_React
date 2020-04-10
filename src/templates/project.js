@@ -65,9 +65,9 @@ const Project = (props) => {
             <p><span>Credits:</span> {props.data.markdownRemark.frontmatter.credits}</p>
           </div>
         </div>
-        <Wave />
       </div>
       <div className="Process">
+        <Wave />
         <div className="Gif" dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}>
         </div>
         <h2>solution</h2>
