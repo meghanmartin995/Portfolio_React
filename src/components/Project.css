@@ -39,7 +39,7 @@
 
 @media (max-width: 450px) {
   .Project {
-    height: 90vh !important;
+    height: 93vh !important;
   }
 
 .Project p {
@@ -117,7 +117,7 @@
   line-height: 125%;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #F75252;
+  color: #ca3232e0;
   opacity: 0;
   animation: HeroAnimation;
   animation-duration: 3s;
@@ -157,6 +157,10 @@
 .Process p {
   line-height: 1.7;
   padding: 0 150px 0 150px;
+}
+
+.Process h3 {
+  color: #690000;
 }
 
 .NextProject {

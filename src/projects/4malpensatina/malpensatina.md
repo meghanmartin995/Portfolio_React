@@ -10,7 +10,7 @@ image1: ./researchm.png
 image2: ./protomm.png
 image3: ./dmp.png
 link: "/machinelearning/"
-role: "Design + Code: I created this website for a client who needed a complete redesign of their vacation rental website. My services included UX design, web development, SEO and graphic design."
+role: "Design + Code: I created this website for a client who needed a redesign of their vacation rental website (UX and graphic design, development and SEO)"
 tools: "HTML5, CSS, Javascript, Netlify"
 credits: "I created this website on my own for a client."
 ---
