@@ -35,7 +35,7 @@ class Header extends React.Component {
           <div className="HeaderGroup">
           <Link to="/"><img width="30" src={require('../images/logo.svg')} /></Link>
           <a onClick={() => navigate("/#About")}>About Me</a>
-          <a onClick={() => navigate("/#Projects")} >Projects</a>
+          <a onClick={() => navigate("/#Projects")}>Projects</a>
           <a onClick={() => navigate("#Footer")}>Contact</a>
           </div>
         </div>

@@ -31,10 +31,6 @@ const Projects = () => {
     }
   `)
 
-  console.log(data)
-
-
-
     return (
       <div className="CardGroup">
       {data.allMarkdownRemark.edges.map((edge) => {

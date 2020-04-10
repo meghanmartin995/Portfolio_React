@@ -21,8 +21,8 @@ const IndexPage = () => (
           </p>
       </div>
     </div>
-    <div className="Cards" id="Projects">
-      <h2>Examples of my work</h2>
+    <div className="Cards">
+      <h2 id="Projects">Examples of my work</h2>
           <Projects />
     </div>
     <div id="About">
