@@ -11,9 +11,9 @@ image2: ./thrive3.png
 image3: ./thrive.png
 gif: ./fancier.gif
 link: "/lucid/"
-role: "Design: UX Design, Product Design and Strategy for ArcelorMittal Research & Development"
-tools: "UX research: deep interviews, stakeholders & territory maps, benchmarking, live prototyping, UX design: Sketch, Adobe Suite, data visualization"
-credits: "I worked on this project on a team of four with Miguel Rodriguez, Tanisha O'Neill, Madeline Honingford in collaboration with ArcelorMittal and NH Hotel Group"
+role: "Design: UX, product design and strategy for ArcelorMittal R&D"
+tools: "UX: deep interviews, stakeholders & territory maps, benchmarking, prototyping, UI: Sketch, Adobe Suite, data visualization"
+credits: "Team: Miguel Rodriguez, Tanisha O'Neill, Madeline Honingford and I"
 ---
 
 ![Gif](thrive.gif)

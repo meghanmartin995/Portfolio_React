@@ -13,7 +13,7 @@ gif: ./fancier1.gif
 video: "./images/fancier.mov"
 link: "/fancier/"
 role: "Design: Sustainable design & strategy"
-tools: "Adobe Suite, print design"
+tools: "Field reseach, deep interviews, Adobe Suite, print design"
 credits: "My team: Manon Dupagne, Emilia Stael Apolo and I, in collaboration with our client: the Omacha Foundation"
 ---
 

@@ -11,8 +11,8 @@ image1: ./lres-01.png
 image2: ./protol.png
 image3: ./5lucid.png
 gif: ./fancier.gif
-role: "Design: Graphic design and brand strategy"
-tools: "Adobe Suite"
+role: "Design: Graphic design and brand strategy to create Lucid, a set of 250 conversation cards about the future of humanity"
+tools: "Adobe Suite, Sketch, print design"
 link: "/replastic/"
 credits: "This project was my final Design Strategy masters project at Instituto Europeo di Design."
 ---

@@ -11,8 +11,8 @@ image2: ./protomm.png
 image3: ./dmp.png
 link: "/machinelearning/"
 role: "Design + Code: I created this website for a client who needed a redesign of their vacation rental website (UX and graphic design, development and SEO)"
-tools: "HTML5, CSS, Javascript, Netlify"
-credits: "I created this website on my own for a client."
+tools: "HTML5, CSS, Javascript, Netlify, SEO"
+credits: "I created this website for a client"
 ---
 
 ![Gif](malpensatina.gif)

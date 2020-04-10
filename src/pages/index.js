@@ -16,7 +16,7 @@ const IndexPage = () => (
         <p>front-end developer + designer </p>
           <p className="Marquee">
             <span>
-              tools: JAVASCRIPT, HTML/CSS, RUBY ON RAILS, figma, adobe suite, currently learning: react.js
+              tools: JAVASCRIPT, HTML/CSS, RUBY ON RAILS, figma, adobe suite, currently learning: react.js, this site is built with gatsby.js
             </span>
           </p>
       </div>
