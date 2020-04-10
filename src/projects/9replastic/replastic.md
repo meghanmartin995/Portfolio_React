@@ -9,7 +9,7 @@ image: ./re.png
 image1: ./re6-01.png
 image2: ./re7-01.png
 image3: ./re8-01.png
-gif: ./fancier.gif
+gif: ./fancier1.gif
 video: "./images/fancier.mov"
 link: "/fancier/"
 role: "Design: Sustainable design & strategy"
