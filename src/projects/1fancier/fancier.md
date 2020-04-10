@@ -3,7 +3,7 @@ title:  "Fancier"
 doc:  "Design + Code"
 challenge: "How can we make festival clothing shopping more sustainable, memorable and unique?"
 text: "Two-sided marketplace for festival clothing"
-process: "We started the project by conducting user research and surveys to understand the needs of the festival shopper. Then we benchmarked ourselves against retail competitors that had second-hand offerings including Depop, Asos and Etsy. We created wireframes to test the user flows and once we felt confident we converted them into HiFi prototypes which we further tested on our target users. For our development process, we followed the agile methodology through Trello board, user story sprints and daily standups"
+process: "We started the project by conducting user research and surveys to understand the needs of the festival shopper. Then we benchmarked ourselves against retail competitors that had second-hand offerings including Depop, Asos and Etsy. We created wireframes to test the user flows and once we felt confident we converted them into HiFi prototypes which we further tested on our target users. For our development process, we followed the agile methodology through Trello boards, user story sprints and daily standups."
 result: "On a team of four we built Fancier, a two-sided sustainable marketplace for festival outfits. Users are able to buy and sell festival clothing, along with create profiles, favorites, write reviews, see product recommendations and view dashboard to track shipments and purchases. I led the UX design process, while we all collaborated on the development of the Ruby on Rails application."
 image: ./fancier.png
 image1: ./research.png
