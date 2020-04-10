@@ -101,11 +101,11 @@
   }
 
   .Project h1 {
-    width: 300px !important;
+    width: 325px !important;
   }
 
   .Project p {
-    width: 300px !important;
+    width: 325px !important;
   }
 
   .Process p {
@@ -137,7 +137,7 @@
   }
   .Project {
     height: 80vh;
-    padding-top: 120px;
+    padding-top: 90px;
   }
 }
 
