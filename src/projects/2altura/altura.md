@@ -18,6 +18,6 @@ credits: "Collaborated on a team of four with Kendrikc Rambal, Laura Aunion and 
 
 ![Gif](altura.gif)
 <br>
-[Website link](https://www.alturajet.heroku.com "www.alturajet.heroku.com")
+[Website link](http://www.alturajet.heroku.com "http://www.alturajet.heroku.com")
 <br>
 [Github Repo](https://github.com/themsinglink/ALTURA_APP "https://github.com/themsinglink/ALTURA_APP")
