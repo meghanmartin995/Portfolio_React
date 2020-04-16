@@ -14,10 +14,21 @@
   display: grid;
 }
 
-@media (min-width: 2000px) {
+@media (min-width: 1440px) {
+ .Project {
+  height: 72vh !important;
+  }
+ }
+
+@media (min-width: 1680px) {
+ .Project {
+  height: 70vh !important;
+ }
+}
+@media (min-width: 1920px) {
   .Project h1 {
     font-size: 2.5vw !important;
-    width: 1800px !important;
+    width: 1700px !important;
   }
 
   .Project p {
@@ -26,12 +37,12 @@
   }
 
   .Project {
-    height: 30vh !important;
+    height: 60vh !important;
     padding-top: 215px !important;
   }
 
   .HeaderGroup {
-    font-size: 40px;
+    font-size: 38px;
     max-width: 1600px;
   }
   .HeaderGroup img {
@@ -114,6 +125,7 @@
   }
   .Project {
     margin-bottom: 150px;
+    height: 56vh;
   }
 }
 
@@ -145,7 +157,16 @@
   }
 }
 
-@media (max-width: 850px) {
+@media (max-width: 1024px) {
+  .Project h1 {
+    font-size: 32px !important;
+  }
+  .Project p {
+    font-size: 22px !important;
+  }
+}
+
+@media (max-width: 1000px) {
   .Project h1 {
     width: 700px !important;
     font-size: 35px !important;
@@ -196,11 +217,9 @@
   }
 }
 
-
-
 @media (max-width: 450px) {
   .Project {
-    height: 102vh !important;
+    height: 120vh !important;
   }
 
   .Project h1 {
