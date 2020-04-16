@@ -14,6 +14,109 @@
   display: grid;
 }
 
+@media (min-width: 2000px) {
+  .Project h1 {
+    font-size: 2.5vw !important;
+    width: 1800px !important;
+  }
+
+  .Project p {
+    font-size: 1.5vw !important;
+    width: 1600px !important;
+  }
+
+  .Project {
+    height: 30vh !important;
+    padding-top: 215px !important;
+  }
+
+  .HeaderGroup {
+    font-size: 40px;
+    max-width: 1600px;
+  }
+  .HeaderGroup img {
+    width: 36px;
+  }
+  .Process p {
+    font-size: 26px;
+    width: 1600px !important;
+  }
+  .Process h2 {
+    font-size: 38px !important;
+  }
+  .Process h3 {
+    font-size: 32px !important;
+  }
+}
+
+@media (min-width: 3000px) {
+  .Project h1 {
+    font-size: 2.7vw !important;
+    width: 2000px !important;
+  }
+  .Project p {
+    font-size: 1.6vw !important;
+    width: 1800px !important;
+  }
+  .Project {
+    height: 54vh !important;
+    padding-top: 215px !important;
+  }
+  .HeaderGroup {
+    font-size: 46px;
+    max-width: 1800px;
+  }
+  .HeaderGroup img {
+    width: 40px;
+  }
+  .Process p {
+    font-size: 30px;
+    width: 1800px !important;
+  }
+  .Process h2 {
+    font-size: 40px !important;
+  }
+  .Process h3 {
+    font-size: 36px !important;
+  }
+}
+
+@media (min-width: 4000px) {
+  .Project h1 {
+    font-size: 2.2vw !important;
+    width: 2600px !important;
+  }
+  .Project p {
+    font-size: 1.3vw !important;
+    width: 2400px !important;
+  }
+  .Project {
+    height: 40vh !important;
+  }
+  .Process p {
+    font-size: 30px;
+    width: 2400px !important;
+  }
+}
+
+@media (min-width: 5000px) {
+  .Project {
+    height: 50vh !important;
+  }
+}
+
+@media (min-width: 2540px) {
+  #About svg {
+    display: none;
+  }
+  .Process svg {
+    display: none;
+  }
+  .Project {
+    margin-bottom: 150px;
+  }
+}
+
 @media (max-width: 1200px) {
   .Project h1 {
     width: 900px !important;

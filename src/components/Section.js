@@ -23,6 +23,11 @@ const SectionGroup = styled.div `
     @media (max-width: 500px) {
         height: 1320px;
     }
+
+    @media (min-width: 2540px) {
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0.71) 0%, rgba(255, 75, 87, 0.69) 100%);
+        margin-top: 80px;
+    }
 `
 
 const SectionLogo = styled.img`
@@ -58,6 +63,17 @@ const SectionTitle = styled.h3`
 const SectionText = styled.p`
    color: white;
    font-weight: 500;
+   @media (min-width: 1900px) {
+    width: 550px;
+   }
+   @media (min-width: 2540px) {
+    font-size: 30px;
+    width: 800px;
+   }
+   @media (min-width: 2540px) {
+    font-size: 30px;
+    width: 1066px;
+   }
 `
 
 const WaveBottom = styled.div`
