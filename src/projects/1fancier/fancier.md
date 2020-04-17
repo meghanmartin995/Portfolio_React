@@ -21,4 +21,6 @@ credits: "Collaborated with Kendrikc Rambal, Laura Aunion and Katy Link during L
 [Website link](http://www.getfancier.com "http://www.getfancier.com")
 <br>
 [Github Repo](https://github.com/themsinglink/FANCIER_APP "https://github.com/themsinglink/FANCIER_APP")
+<br>
+[Presentation](https://www.youtube.com/watch?v=Opy7Ur7keEc&t "https://www.youtube.com/watch?v=Opy7Ur7keEc&t")
 
