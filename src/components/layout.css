@@ -35,7 +35,7 @@ a {
 }
 
 .HeroGroup span {
-  color: #F75252;
+  color: #F75252 !important;
 }
 
 .Hero h1 {

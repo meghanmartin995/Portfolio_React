@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import Wave from '../components/Wave';
 
 const SectionGroup = styled.div `
-  background: linear-gradient(180deg, #FF6770 0%, rgba(254, 240, 244, 0.59) 100%);
+  background: linear-gradient(180deg, rgba(255, 120, 128, 0.99) 0%, #E94255 33.91%, #B80B17 100%);
   height: 1000px;
   background-size: cover;
   display: grid;
